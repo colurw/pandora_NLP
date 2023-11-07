@@ -2,7 +2,7 @@
 
 Deep learning models can be critised for taking a 'black box' approach to
 modelling data.  Whilst we can judge the accuracy of the outputs, the lack of 
-information available about the process that derives them, leads to wariness 
+information available about the process that derives them leads to wariness 
 about aspects of their use.  For example, studying whether discriminatory biases 
 exist deep within the model can be difficult.
 
