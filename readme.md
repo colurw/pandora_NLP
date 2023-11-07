@@ -1,6 +1,6 @@
 # pandora_NLP
 
-deep learning models can be critised for taking a 'black box' approach to
+Deep learning models can be critised for taking a 'black box' approach to
 modelling data.  Whilst we can judge the accuracy of the outputs, the lack of 
 information available about the process that derives them, leads to wariness 
 about aspects of their use.  For example, studying whether discriminatory biases 
@@ -8,7 +8,7 @@ exist deep within the model can be difficult.
 
 In some cases involving highly self-referential data, such as a language (where 
 each word/document can be exactly described using other words) it might be possible
-topeek inside the box and understand what internal representions (concepts) the 
+to peek inside the box and understand what internal representions (concepts) the 
 algorithm is using to make its inferences.
 
 ## Bug Or Feature
@@ -26,7 +26,7 @@ human comprehension, hence the black box problem.
 A document-level NLP embedding is an example of a dataset processed to reduce 
 dimensionality, where large one-hot encoded vectors representing individual words
 in each document are compressed into smaller vectors, where each value represents
-a concept (asunderstood by the computer) found in the document corpus.  
+a concept (as understood by the computer) found in the document corpus.  
 
 These 'cardinal' concepts are learned by the machine as the most efficient way to
 discriminate between separate documents, and may or may not make much sense to a 
