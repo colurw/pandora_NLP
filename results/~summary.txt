@@ -1,0 +1,1536 @@
+NODE/DIM 001 +ve.   Information Exchange  OR  Psychological and Social Sciences. 
+NODE/DIM 001 -ve.   Diverse subjects.  OR  Art and Science. 
+
+NODE/DIM 002 +ve.   Biodiversity.  OR  Nature 
+NODE/DIM 002 -ve.   Mathematical concepts.  OR  Mathematics and its applications. 
+
+NODE/DIM 003 +ve.   Music and arts.  OR  Performing Arts 
+NODE/DIM 003 -ve.   Diverse academic subjects.  OR  Diversity. 
+
+NODE/DIM 004 +ve.   Names and surnames.  OR  Names and their origins. 
+NODE/DIM 004 -ve.   No overarching concept.  OR  Foundations 
+
+NODE/DIM 005 +ve.   Titles and honor.  OR  Historical Figures and Places 
+NODE/DIM 005 -ve.   Childhood  OR  Children's Education. 
+
+NODE/DIM 006 +ve.   Diversity.  OR  Geographical locations. 
+NODE/DIM 006 -ve.   Death and its various aspects.  OR  Death 
+
+NODE/DIM 007 +ve.   History.  OR  Knowledge of historical figures and facts. 
+NODE/DIM 007 -ve.   Language  OR  Languages. 
+
+NODE/DIM 008 +ve.   Visual Media  OR  Diverse subjects. 
+NODE/DIM 008 -ve.   Diverse domains.  OR  Miscellaneous Articles 
+
+NODE/DIM 009 +ve.   Historical Figures and Locations  OR  Historical Locations and Figures. 
+NODE/DIM 009 -ve.   Classification of organisms.  OR  Taxonomy. 
+
+NODE/DIM 010 +ve.   Mathematics and Science.  OR  Miscellaneous topics. 
+NODE/DIM 010 -ve.   Legal concepts and rights.  OR  Personal Safety. 
+
+NODE/DIM 011 +ve.   Animal Taxonomy.  OR  Microorganisms and Insects. 
+NODE/DIM 011 -ve.   Sports  OR  Sports. 
+
+NODE/DIM 012 +ve.   Geographical locations.  OR  Nature 
+NODE/DIM 012 -ve.   Notable People  OR  People 
+
+NODE/DIM 013 +ve.   Uncertainty  OR  Lithuanian politicians and the Act of the Re-Establishment of the State of Lithuania. 
+NODE/DIM 013 -ve.   Miscellaneous Subjects  OR  Location-based landmarks. 
+
+NODE/DIM 014 +ve.   Miscellaneous.  OR  Subdivisions of the Russian Empire. 
+NODE/DIM 014 -ve.   Knowledge.  OR  Information and Communication 
+
+NODE/DIM 015 +ve.   Knowledge and specialization in various fields.  OR  Biodiversity and Cultural Diversity. 
+NODE/DIM 015 -ve.   Food  OR  Food and Dining. 
+
+NODE/DIM 016 +ve.   Education and Institutions.  OR  Institutions 
+NODE/DIM 016 -ve.   Spiritual Wisdom.  OR  Technology 
+
+NODE/DIM 017 +ve.   Diversity.  OR  Miscellaneous. 
+NODE/DIM 017 -ve.   Natural Classification Systems.  OR  Technology. 
+
+NODE/DIM 018 +ve.   Objects and Locations.  OR  Miscellaneous_information. 
+NODE/DIM 018 -ve.   Miscellaneous.  OR  Historical figures and supernatural beings. 
+
+NODE/DIM 019 +ve.   Diverse Artistic Expressions.  OR  Literature 
+NODE/DIM 019 -ve.   Information dissemination  OR  Historic Buildings and Locations. 
+
+NODE/DIM 020 +ve.   Miscellaneous  OR  Geographical locations. 
+NODE/DIM 020 -ve.   Education.  OR  Technology. 
+
+NODE/DIM 021 +ve.   Place names in different historical contexts.  OR  News headlines from various publications 
+NODE/DIM 021 -ve.   Nature  OR  Species and Taxonomy. 
+
+NODE/DIM 022 +ve.   Canadian Geographic Locations  OR  Geographical Locations in Canada. 
+NODE/DIM 022 -ve.   Entertainment  OR  Entertainment. 
+
+NODE/DIM 023 +ve.   Family and Relationships.  OR  Family Heritage 
+NODE/DIM 023 -ve.   Language and Communication.  OR  Knowledge Classification. 
+
+NODE/DIM 024 +ve.   Knowledge.  OR  Knowledge 
+NODE/DIM 024 -ve.   Location  OR  Botany. 
+
+NODE/DIM 025 +ve.   Diverse Topics  OR  Historical Entities 
+NODE/DIM 025 -ve.   Music and performance.  OR  Technology 
+
+NODE/DIM 026 +ve.   Heritage.  OR  Fungi 
+NODE/DIM 026 -ve.   Religious figures and concepts.  OR  Education. 
+
+NODE/DIM 027 +ve.   Historical and cultural topics.  OR  Knowledge and Historical Documentation. 
+NODE/DIM 027 -ve.   Nomenclature.  OR  No common concept label can be applied to these articles. 
+
+NODE/DIM 028 +ve.   Mexico  OR  International Relations. 
+NODE/DIM 028 -ve.   Obscure historical figures and concepts.  OR  Language and culture. 
+
+NODE/DIM 029 +ve.   Historical Figures.  OR  Diverse historical and geographical topics. 
+NODE/DIM 029 -ve.   Miscellaneous Facts  OR  Language and Culture. 
+
+NODE/DIM 030 +ve.   Film and entertainment.  OR  Performing Arts 
+NODE/DIM 030 -ve.   Exploration  OR  Historical Figures and Events. 
+
+NODE/DIM 031 +ve.   Miscellaneous  OR  Asia 
+NODE/DIM 031 -ve.   Different geographical locations and their characteristics.  OR  Geography. 
+
+NODE/DIM 032 +ve.   Medicine.  OR  Medical concepts. 
+NODE/DIM 032 -ve.   Marine biodiversity.  OR  Marine Invertebrates. 
+
+NODE/DIM 033 +ve.   Information Technologies.  OR  Display 
+NODE/DIM 033 -ve.   Characteristics of various objects.  OR  Nature 
+
+NODE/DIM 034 +ve.   Magic and Islamic culture.  OR  Historical figures and concepts. 
+NODE/DIM 034 -ve.   Historical Figures and Movements.  OR  Shared Nature: Cultural Diversity. 
+
+NODE/DIM 035 +ve.   Biography.  OR  Historical Figures 
+NODE/DIM 035 -ve.   Miscellaneous.  OR  Miscellaneous information. 
+
+NODE/DIM 036 +ve.   Military History.  OR  Warfare 
+NODE/DIM 036 -ve.   Diverse articles.  OR  Dutch Geography. 
+
+NODE/DIM 037 +ve.   Community  OR  Public Service 
+NODE/DIM 037 -ve.   Knowledge and Science.  OR  Science 
+
+NODE/DIM 038 +ve.   Geographic locations and anatomical features.  OR  Geographical features. 
+NODE/DIM 038 -ve.   Historical Figures and Events  OR  Historical Figures 
+
+NODE/DIM 039 +ve.   Nature and Wildlife.  OR  Historical figures and events. 
+NODE/DIM 039 -ve.   Indian Geography and Culture.  OR  Geographical Locations. 
+
+NODE/DIM 040 +ve.   Politicians and political figures.  OR  Politics 
+NODE/DIM 040 -ve.   Poetry  OR  Diverse - these articles cover a wide range of topics. 
+
+NODE/DIM 041 +ve.   Biological classifications.  OR  Taxonomy 
+NODE/DIM 041 -ve.   Placenames.  OR  various organizations or individuals from different countries. 
+
+NODE/DIM 042 +ve.   Information.  OR  Information and connectivity 
+NODE/DIM 042 -ve.   Human creativity and achievements in various fields.  OR  Insects. 
+
+NODE/DIM 043 +ve.   Television shows and personalities.  OR  Television shows. 
+NODE/DIM 043 -ve.   Entertainment.  OR  Film culture. 
+
+NODE/DIM 044 +ve.   Technical Terminology  OR  Miscellaneous 
+NODE/DIM 044 -ve.   History  OR  Personalities 
+
+NODE/DIM 045 +ve.   Chemistry and Biology.  OR  Chemical compounds and reactions. 
+NODE/DIM 045 -ve.   Beetle species within the genus Mordella.  OR  Biodiversity. 
+
+NODE/DIM 046 +ve.   Information Exchange.  OR  Miscellaneous information. 
+NODE/DIM 046 -ve.   Geographic locations.  OR  Neighborhoods. 
+
+NODE/DIM 047 +ve.   Information.  OR  Diverse applications of knowledge. 
+NODE/DIM 047 -ve.   Historical Figures  OR  Historical Figures. 
+
+NODE/DIM 048 +ve.   Diverse Topics.  OR  Choice 
+NODE/DIM 048 -ve.   Miscellaneous.  OR  Insects. 
+
+NODE/DIM 049 +ve.   Nature.  OR  Agriculture 
+NODE/DIM 049 -ve.   Different Cultures and Artifacts  OR  Miscellaneous 
+
+NODE/DIM 050 +ve.   Miscellaneous  OR  Music and Firearms 
+NODE/DIM 050 -ve.   Historical places and cultures.  OR  Historical Figures. 
+
+NODE/DIM 051 +ve.   Games and Sports.  OR  Games 
+NODE/DIM 051 -ve.   Government and Military Concepts  OR  Government Initiatives 
+
+NODE/DIM 052 +ve.   Nomenclature  OR  Pop culture and language. 
+NODE/DIM 052 -ve.   Taxonomy.  OR  Taxonomy. 
+
+NODE/DIM 053 +ve.   Information Representation.  OR  Diverse cultural practices and concepts. 
+NODE/DIM 053 -ve.   People and Entities  OR  Encyclopedic Entries 
+
+NODE/DIM 054 +ve.   Music  OR  Diversity 
+NODE/DIM 054 -ve.   Classification  OR  Species Classification 
+
+NODE/DIM 055 +ve.   Historical figures and cultures.  OR  Historical Places and Cultural Artifacts. 
+NODE/DIM 055 -ve.   Miscellaneous  OR  Alcohol-related topics. 
+
+NODE/DIM 056 +ve.   German Culture.  OR  Germany 
+NODE/DIM 056 -ve.   Historical Figures and Concepts  OR  Miscellaneous 
+
+NODE/DIM 057 +ve.   Information  OR  Information Technology. 
+NODE/DIM 057 -ve.   Diverse subjects.  OR  Historical Figures 
+
+NODE/DIM 058 +ve.   Historical Figures  OR  Administrative divisions. 
+NODE/DIM 058 -ve.   Titles and names in history and geography.  OR  Family history and genealogy. 
+
+NODE/DIM 059 +ve.   Scientific Classification.  OR  Miscellaneous 
+NODE/DIM 059 -ve.   Abstract terms  OR  Miscellaneous 
+
+NODE/DIM 060 +ve.   Diversity of Topics  OR  Locations and Landmarks. 
+NODE/DIM 060 -ve.   Animals  OR  Animals and Materials 
+
+NODE/DIM 061 +ve.   Historical figures.  OR  Technology. 
+NODE/DIM 061 -ve.   Diversity.  OR  Humanitarianism. 
+
+NODE/DIM 062 +ve.   Warfare  OR  Military history. 
+NODE/DIM 062 -ve.   Miscellaneous.  OR  Children 
+
+NODE/DIM 063 +ve.   Place names or geographical locations.  OR  Locations 
+NODE/DIM 063 -ve.   Historical figures.  OR  Human Evolution 
+
+NODE/DIM 064 +ve.   Cross-cultural influences.  OR  Abstract concepts of human culture and society. 
+NODE/DIM 064 -ve.   Diverse Concepts in Various Fields  OR  Risk 
+
+NODE/DIM 065 +ve.   Property  OR  Descriptions of Places or Entities 
+NODE/DIM 065 -ve.   Diverse subjects.  OR  Miscellaneous facts and information. 
+
+NODE/DIM 066 +ve.   Computing and technology.  OR  Information Technology. 
+NODE/DIM 066 -ve.   Biology and taxonomy  OR  Beetle species discovery. 
+
+NODE/DIM 067 +ve.   Miscellaneous.  OR  Various forms of media and culture. 
+NODE/DIM 067 -ve.   Explorers  OR  Famous Figures in History. 
+
+NODE/DIM 068 +ve.   Diversity.  OR  Miscellaneous. 
+NODE/DIM 068 -ve.   People and their contributions.  OR  Miscellaneous Historical Topics 
+
+NODE/DIM 069 +ve.   Geographical Locations.  OR  Locations in India. 
+NODE/DIM 069 -ve.   Insects in the family Cerambycidae.  OR  Insects. 
+
+NODE/DIM 070 +ve.   Names and Labels.  OR  Miscellaneous. 
+NODE/DIM 070 -ve.   Diverse biographical profiles.  OR  Information Exploration. 
+
+NODE/DIM 071 +ve.   Mathematics.  OR  People and their occupations. 
+NODE/DIM 071 -ve.   Mythological and religious figures and beliefs.  OR  Abstract entities in historical context. 
+
+NODE/DIM 072 +ve.   Information Sharing.  OR  Individuals and their contributions. 
+NODE/DIM 072 -ve.   Time  OR  Historical Figures and Events. 
+
+NODE/DIM 073 +ve.   Documents and Concepts  OR  Geography. 
+NODE/DIM 073 -ve.   People and Places in French History.  OR  People and Places. 
+
+NODE/DIM 074 +ve.   Notable Figures  OR  Categorization of Lists 
+NODE/DIM 074 -ve.   Diverse Concepts.  OR  Organizations 
+
+NODE/DIM 075 +ve.   Information  OR  Information 
+NODE/DIM 075 -ve.   Articles about various geographical regions, ancient gods, historical figures, organizations, and species comprise a broad theme.  OR  Nature 
+
+NODE/DIM 076 +ve.   Representation of Historical and Geographical Entities  OR  Places and People. 
+NODE/DIM 076 -ve.   Brand Diversification.  OR  Business Leaders 
+
+NODE/DIM 077 +ve.   Biblical figures.  OR  Knowledge 
+NODE/DIM 077 -ve.   Language and communication.  OR  Geographical Locations. 
+
+NODE/DIM 078 +ve.   Food and beverages.  OR  Fungi 
+NODE/DIM 078 -ve.   Miscellaneous  OR  Precision 
+
+NODE/DIM 079 +ve.   Information  OR  Size. 
+NODE/DIM 079 -ve.   Information  OR  Awards. 
+
+NODE/DIM 080 +ve.   Figures of Speech.  OR  Uncommon Names and Labels. 
+NODE/DIM 080 -ve.   Geographic locations.  OR  Nature Reserves 
+
+NODE/DIM 081 +ve.   Nature  OR  Spitsbergen 
+NODE/DIM 081 -ve.   Historical figures and places.  OR  Historical figures 
+
+NODE/DIM 082 +ve.   Taxonomy  OR  Diversity. 
+NODE/DIM 082 -ve.   General Concepts of Photography and Mathematics  OR  Government and Administration. 
+
+NODE/DIM 083 +ve.   Taxonomy  OR  Names and classifications in different fields. 
+NODE/DIM 083 -ve.   Telecommunications and technology  OR  Control and Stability 
+
+NODE/DIM 084 +ve.   Information and history.  OR  Titles and roles of historical figures. 
+NODE/DIM 084 -ve.   Biodiversity.  OR  Bacterium species. 
+
+NODE/DIM 085 +ve.   Computer Programming.  OR  Location. 
+NODE/DIM 085 -ve.   Diverse disciplines and subjects.  OR  Information on various topics from different domains. 
+
+NODE/DIM 086 +ve.   Historical Figures and Events.  OR  Historical figures and entities. 
+NODE/DIM 086 -ve.   Geographical locations.  OR  Locations and Landmarks. 
+
+NODE/DIM 087 +ve.   Diverse Topics  OR  Linguistics. 
+NODE/DIM 087 -ve.   Technology  OR  Information Systems 
+
+NODE/DIM 088 +ve.   Geographical locations.  OR  Place Names 
+NODE/DIM 088 -ve.   Species Geography History  OR  Nature and Wildlife 
+
+NODE/DIM 089 +ve.   Elections for National Presidents.  OR  Leadership 
+NODE/DIM 089 -ve.   Various Forms of Art.  OR  Music 
+
+NODE/DIM 090 +ve.   Information.  OR  Nature and Classification 
+NODE/DIM 090 -ve.   Prominent Figures through History.  OR  People and Places. 
+
+NODE/DIM 091 +ve.   Place names.  OR  Diverse places and terms. 
+NODE/DIM 091 -ve.   Diverse Topics  OR  Human Achievements 
+
+NODE/DIM 092 +ve.   Material Science.  OR  People and Organizations 
+NODE/DIM 092 -ve.   Historical Figures and Places.  OR  Historical Titles. 
+
+NODE/DIM 093 +ve.   Communication.  OR  Information Organization. 
+NODE/DIM 093 -ve.   Diverse.  OR  Place names in ancient civilizations. 
+
+NODE/DIM 094 +ve.   Geographical locations and cultural groups.  OR  Geographical Locations. 
+NODE/DIM 094 -ve.   Geographical locations.  OR  Historical Figures and Events. 
+
+NODE/DIM 095 +ve.   Species Description.  OR  No shared concept identified. 
+NODE/DIM 095 -ve.   Diversity of Mythology, History, and Culture.  OR  Miscellaneous Articles. 
+
+NODE/DIM 096 +ve.   Publications  OR  Education 
+NODE/DIM 096 -ve.   Branding and Corporations.  OR  Business operations. 
+
+NODE/DIM 097 +ve.   Information Technology  OR  Natural Diversity. 
+NODE/DIM 097 -ve.   Etymology  OR  Technology. 
+
+NODE/DIM 098 +ve.   Knowledge  OR  Abstract concepts. 
+NODE/DIM 098 -ve.   Location  OR  Location/Place 
+
+NODE/DIM 099 +ve.   Historical Figures.  OR  Historical entities 
+NODE/DIM 099 -ve.   Management  OR  Authentication and Support. 
+
+NODE/DIM 100 +ve.   Miscellaneous.  OR  Entertainment. 
+NODE/DIM 100 -ve.   Nomenclature.  OR  Language and Communication. 
+
+NODE/DIM 101 +ve.   Nature and Wildlife.  OR  South African fauna and flora. 
+NODE/DIM 101 -ve.   History  OR  Family prominence. 
+
+NODE/DIM 102 +ve.   General Concepts  OR  Labels 
+NODE/DIM 102 -ve.   Various applications  OR  Geographic regions. 
+
+NODE/DIM 103 +ve.   Historical Figures and Concepts  OR  Various geographical locations 
+NODE/DIM 103 -ve.   Phenomena and concepts in various fields.  OR  Divisibility. 
+
+NODE/DIM 104 +ve.   Miscellaneous.  OR  People or individuals. 
+NODE/DIM 104 -ve.   Religious and biblical themes.  OR  Religious figures and concepts. 
+
+NODE/DIM 105 +ve.   Irish culture and history.  OR  Irish History 
+NODE/DIM 105 -ve.   Social Constructs  OR  Information Delivery 
+
+NODE/DIM 106 +ve.   Diverse subjects.  OR  Political Ideologies and Organizations. 
+NODE/DIM 106 -ve.   United States  OR  Oaths, Curses, and Obligations.  OR  Religious and historical entities. 
+
+NODE/DIM 107 +ve.   Sports clubs and organizations.  OR  Sports 
+NODE/DIM 107 -ve.   Varied Artistic and Creative Endeavors.  OR  Historical figures and cultural icons. 
+
+NODE/DIM 108 +ve.   British Culture  OR  Royal Household Concepts 
+NODE/DIM 108 -ve.   Geographical Locations.  OR  Location 
+
+NODE/DIM 109 +ve.   Location.  OR  Historical Places 
+NODE/DIM 109 -ve.   Miscellaneous information.  OR  Species Diversity. 
+
+NODE/DIM 110 +ve.   Miscellaneous.  OR  History 
+NODE/DIM 110 -ve.   Internet Platforms.  OR  Internet and technology. 
+
+NODE/DIM 111 +ve.   Different fields of study.  OR  Knowledge 
+NODE/DIM 111 -ve.   Historical figures  OR  Death. 
+
+NODE/DIM 112 +ve.   Comparison  OR  Diversity 
+NODE/DIM 112 -ve.   Language and human emotions.  OR  Deception. 
+
+NODE/DIM 113 +ve.   Eclectic topics  OR  Biographical Information 
+NODE/DIM 113 -ve.   Notable Figures  OR  Notable Women 
+
+NODE/DIM 114 +ve.   Miscellaneous information.  OR  Islands 
+NODE/DIM 114 -ve.   Organizations  OR  Light and Perception. 
+
+NODE/DIM 115 +ve.   Information Sharing.  OR  Knowledge. 
+NODE/DIM 115 -ve.   Gender_roles  OR  Women's contributions and experiences 
+
+NODE/DIM 116 +ve.   Information Systems.  OR  Information                                                          
+NODE/DIM 116 -ve.   Locations  OR  Geographical locations. 
+
+NODE/DIM 117 +ve.   Information Storage  OR  Diverse Topics. 
+NODE/DIM 117 -ve.   Various subjects.  OR  Insects. 
+
+NODE/DIM 118 +ve.   Miscellaneous Information.  OR  Sleep state misperception. 
+NODE/DIM 118 -ve.   Transportation and systems  OR  Miscellaneous 
+
+NODE/DIM 119 +ve.   Information  OR  Information dissemination. 
+NODE/DIM 119 -ve.   Historical figures.  OR  Military leaders from various historical periods and regions. 
+
+NODE/DIM 120 +ve.   Diverse Historical Figures and Movements.  OR  Geography and history 
+NODE/DIM 120 -ve.   Species  OR  Nature 
+
+NODE/DIM 121 +ve.   Marine biodiversity.  OR  Marine and Aquatic Life. 
+NODE/DIM 121 -ve.   Names and terminology  OR  Historical Places 
+
+NODE/DIM 122 +ve.   Identity.  OR  Locations 
+NODE/DIM 122 -ve.   Diverse ideologies  OR  Knowledge of Historical Figures 
+
+NODE/DIM 123 +ve.   Information about different locations and individuals.  OR  Locations 
+NODE/DIM 123 -ve.   Alcohol.  OR  Marine life and various objects. 
+
+NODE/DIM 124 +ve.   Information dissemination.  OR  Information and Technology 
+NODE/DIM 124 -ve.   Taxonomy.  OR  Beetles. 
+
+NODE/DIM 125 +ve.   Knowledge and exploration.  OR  Promotion of various organizations, individuals, and initiatives. 
+NODE/DIM 125 -ve.   Knowledge  OR  Phonetics and language 
+
+NODE/DIM 126 +ve.   Locations and entities in the United States.  OR  Species Distribution. 
+NODE/DIM 126 -ve.   Information and diverse.  OR  Geographical locations. 
+
+NODE/DIM 127 +ve.   Language and Culture.  OR  Eastern Eurasian Biodiversity. 
+NODE/DIM 127 -ve.   Descriptions of different types of structures, institutions and phenomena.  OR  Locations and structures. 
+
+NODE/DIM 128 +ve.   Historical Regions.  OR  Place names. 
+NODE/DIM 128 -ve.   Creativity and Cultural Expression.  OR  Topics. 
+
+NODE/DIM 129 +ve.   Historical Figures  OR  Short-lived entities or concepts. 
+NODE/DIM 129 -ve.   Places.  OR  Diverse Subjects. 
+
+NODE/DIM 130 +ve.   Film-related content  OR  Place names and their significance. 
+NODE/DIM 130 -ve.   Media and Culture.  OR  Notable figures or entities in various fields. 
+
+NODE/DIM 131 +ve.   Miscellaneous Information.  OR  Geography. 
+NODE/DIM 131 -ve.   Diversity  OR  Occupations. 
+
+NODE/DIM 132 +ve.   Microorganisms  OR  Biological Taxonomy 
+NODE/DIM 132 -ve.   Telecommunications.  OR  Financial Services 
+
+NODE/DIM 133 +ve.   Miscellaneous historical figures and topics.  OR  Diverse subjects. 
+NODE/DIM 133 -ve.   Information  OR  Public Figures in Government 
+
+NODE/DIM 134 +ve.   Historical Figures.  OR  Linguistic and cultural diversity. 
+NODE/DIM 134 -ve.   Computer Science Concepts  OR  Technology 
+
+NODE/DIM 135 +ve.   Biology.  OR Taxonomy and Geographic Locations. 
+NODE/DIM 135 -ve.   Information and Communication Technology.  OR  Music. 
+
+NODE/DIM 136 +ve.   Diversity.  OR  People 
+NODE/DIM 136 -ve.   Information Systems.  OR  Stories throughout history. 
+
+NODE/DIM 137 +ve.   Information Systems  OR  Diverse Topics 
+NODE/DIM 137 -ve.   Problem-solving methods.  OR  Knowledge and exploration. 
+
+NODE/DIM 138 +ve.   Prominent Figures  OR  Nature. 
+NODE/DIM 138 -ve.   Water  OR  Ancient History and Mythology. 
+
+NODE/DIM 139 +ve.   Historical Figures.  OR  Information and knowledge. 
+NODE/DIM 139 -ve.   Taxonomy  OR  Taxonomy 
+
+NODE/DIM 140 +ve.   Diversity  OR  Furniture and History. 
+NODE/DIM 140 -ve.   Language diversity.  OR  Place Names 
+
+NODE/DIM 141 +ve.   Violence and crime.  OR  War. 
+NODE/DIM 141 -ve.   Miscellaneous  OR  Miscellaneous topics 
+
+NODE/DIM 142 +ve.   Microorganisms  OR  News. 
+NODE/DIM 142 -ve.   Knowledge Acquisition.  OR  Knowledge 
+
+NODE/DIM 143 +ve.   Government and Public Services.  OR  Government and Governance 
+NODE/DIM 143 -ve.   Diverse Taxonomy.  OR  Animals 
+
+NODE/DIM 144 +ve.   Literature.  OR  Books and literature. 
+NODE/DIM 144 -ve.   Music  OR  Technology. 
+
+NODE/DIM 145 +ve.   Knowledge and research.  OR  Knowledge and Uncertainty. 
+NODE/DIM 145 -ve.   Law and legislation.  OR  Law 
+
+NODE/DIM 146 +ve.   Political Elections.  OR  Political representation. 
+NODE/DIM 146 -ve.   Classifications in various fields.  OR  Information technology. 
+
+NODE/DIM 147 +ve.   Technology  OR  Information Classification. 
+NODE/DIM 147 -ve.   Technology.  OR  Computer Science and Technology. 
+
+NODE/DIM 148 +ve.   Mental Processes and Disorders  OR  Mental Health 
+NODE/DIM 148 -ve.   Human Settlements.  OR  None of these articles share a common concept. 
+
+NODE/DIM 149 +ve.   Classification of specific objects or concepts.  OR  Diversity. 
+NODE/DIM 149 -ve.   Finance.  OR  Property and Finance. 
+
+NODE/DIM 150 +ve.   Ethnic and cultural communities.  OR  Village Life in India 
+NODE/DIM 150 -ve.   Famous Figures and Places.  OR  Cultural Heritage. 
+
+NODE/DIM 151 +ve.   Information  OR  Knowledge and representation. 
+NODE/DIM 151 -ve.   Plants.  OR  Plants 
+
+NODE/DIM 152 +ve.   Mathematical Analysis.  OR  Measurement 
+NODE/DIM 152 -ve.   Languages  OR  Languages and Linguistics. 
+
+NODE/DIM 153 +ve.   Law and Crime.  OR  Law enforcement and criminal justice. 
+NODE/DIM 153 -ve.   Miscellaneous.  OR  Knowledge Acquisition 
+
+NODE/DIM 154 +ve.   Historical figures.  OR  Historical Figures and Places. 
+NODE/DIM 154 -ve.   Historical events and concepts.  OR  Diverse topics. 
+
+NODE/DIM 155 +ve.   Chemical compounds.  OR  Microorganisms 
+NODE/DIM 155 -ve.   Variety of Topics.  OR  Diverse Concepts. 
+
+NODE/DIM 156 +ve.   Historical Figures  OR  Historical Figures 
+NODE/DIM 156 -ve.   Art and culture.  OR  Diversity 
+
+NODE/DIM 157 +ve.   Miscellaneous  OR  Publication or media 
+NODE/DIM 157 -ve.   Information  OR  Nature and Science. 
+
+NODE/DIM 158 +ve.   Geographical Locations.  OR  Place names. 
+NODE/DIM 158 -ve.   Knowledge Acquisition.  OR  Rights 
+
+NODE/DIM 159 +ve.   Miscellaneous  OR  Administrative divisions. 
+NODE/DIM 159 -ve.   Miscellaneous  OR  Historical figures. 
+
+NODE/DIM 160 +ve.   Defence.  OR  Military history. 
+NODE/DIM 160 -ve.   Business and Finance.  OR  Miscellaneous. 
+
+NODE/DIM 161 +ve.   Varied mythological and cultural elements.  OR  Miscellaneous 
+NODE/DIM 161 -ve.   Animals  OR  Insects. 
+
+NODE/DIM 162 +ve.   Miscellaneous.  OR  Language and Communication. 
+NODE/DIM 162 -ve.   History  OR  History 
+
+NODE/DIM 163 +ve.   Design and Configuration  OR  Design. 
+NODE/DIM 163 -ve.   Miscellaneous.  OR  Classification of Entities 
+
+NODE/DIM 164 +ve.   Groupings of three.  OR  Categories 
+NODE/DIM 164 -ve.   Knowledge  OR  Diversity and variety. 
+
+NODE/DIM 165 +ve.   Miscellaneous.  OR  Nature and characteristics of various species. 
+NODE/DIM 165 -ve.   Information.  OR  Diverse historical figures. 
+
+NODE/DIM 166 +ve.   Nature.  OR  Nature. 
+NODE/DIM 166 -ve.   Finance and Investment.  OR  Finance and Investments. 
+
+NODE/DIM 167 +ve.   Geographical locations.  OR  Geographical locations. 
+NODE/DIM 167 -ve.   Diverse Topics.  OR  Informational publications. 
+
+NODE/DIM 168 +ve.   Historical artifacts and figures.  OR  Miscellaneous historical facts. 
+NODE/DIM 168 -ve.   Education.  OR  Miscellaneous 
+
+NODE/DIM 169 +ve.   Administration  OR  Various fields of study and practice. 
+NODE/DIM 169 -ve.   Newspapers and publications.  OR  Media and Publications. 
+
+NODE/DIM 170 +ve.   Telecommunications  OR  Insects and related organisms. 
+NODE/DIM 170 -ve.   Education.  OR  Educational institutions. 
+
+NODE/DIM 171 +ve.   Publication Information  OR  Publications. 
+NODE/DIM 171 -ve.   Human behavior and cultural diversity.  OR  Technology 
+
+NODE/DIM 172 +ve.   Classification  OR  Natural Landforms 
+NODE/DIM 172 -ve.   Medical conditions.  OR  Health and Medical Conditions. 
+
+NODE/DIM 173 +ve.   Names and terms  OR  Names and surnames. 
+NODE/DIM 173 -ve.   Communication.  OR  Information Representation 
+
+NODE/DIM 174 +ve.   Nature and Geography.  OR  Nature and species 
+NODE/DIM 174 -ve.   Miscellaneous  OR  Administration. 
+
+NODE/DIM 175 +ve.   Language and Communication.  OR  Language 
+NODE/DIM 175 -ve.   Miscellaneous.  OR  Miscellaneous 
+
+NODE/DIM 176 +ve.   Diverse Mythologies and Cultural Practices.  OR  diversity 
+NODE/DIM 176 -ve.   Geo-cultural locations.  OR  Geographical locations in Spain and Costa Rica. 
+
+NODE/DIM 177 +ve.   Notable Individuals and Their Contributions.  OR  People 
+NODE/DIM 177 -ve.   Information enhancement.  OR  Etymology and Classification. 
+
+NODE/DIM 178 +ve.   Knowledge  OR  Locations 
+NODE/DIM 178 -ve.   War and Conflict  OR  Medieval and varied. 
+
+NODE/DIM 179 +ve.   Diverse Mythology and Ancient Knowledge.  OR  Biosynthesis. 
+NODE/DIM 179 -ve.   Historic Figures and Places.  OR  History 
+
+NODE/DIM 180 +ve.   Knowledge expansion  OR  Diverse historical concepts. 
+NODE/DIM 180 -ve.   Knowledge.  OR  Miscellaneous 
+
+NODE/DIM 181 +ve.   Diverse Topics  OR  Miscellaneous Information 
+NODE/DIM 181 -ve.   Transportation.  OR  Information about various subjects. 
+
+NODE/DIM 182 +ve.   Shared Characteristics of Political Entities  OR  Diverse Celebrations 
+NODE/DIM 182 -ve.   Written Works  OR  Books 
+
+NODE/DIM 183 +ve.   Diverse knowledge.  OR  Historical figures and their works. 
+NODE/DIM 183 -ve.   Problem Solving.  OR  Diverse Terminology 
+
+NODE/DIM 184 +ve.   Alphabets.  OR  Miscellaneous. 
+NODE/DIM 184 -ve.   Historical Figures  OR  geographical locations 
+
+NODE/DIM 185 +ve.   Telecommunication.  OR  Information Technology 
+NODE/DIM 185 -ve.   Abstract Concepts  OR  Deities and philosophers. 
+
+NODE/DIM 186 +ve.   Data Analysis.  OR  Reproduction. 
+NODE/DIM 186 -ve.   Common Concepts  OR  Names and Terminology. 
+
+NODE/DIM 187 +ve.   Pharmacology.  OR  Beverages. 
+NODE/DIM 187 -ve.   Computer Science and Technology.  OR  Technology advancements 
+
+NODE/DIM 188 +ve.   Mathematics.  OR  Mathematics. 
+NODE/DIM 188 -ve.   Information  OR  Political Movements 
+
+NODE/DIM 189 +ve.   Music  OR  Music 
+NODE/DIM 189 -ve.   Knowledge acquisition and understanding.  OR  Learning. 
+
+NODE/DIM 190 +ve.   Notable Figures and Places.  OR  Exploration. 
+NODE/DIM 190 -ve.   Cognition.  OR  Structures 
+
+NODE/DIM 191 +ve.   Symbolic Representation.  OR  Academic disciplines. 
+NODE/DIM 191 -ve.   Diversity and Associations.  OR  Diverse topics. 
+
+NODE/DIM 192 +ve.   Law and legal systems  OR  Legal Precedents 
+NODE/DIM 192 -ve.   Economics.  OR  Economics and finance concepts. 
+
+NODE/DIM 193 +ve.   Knowledge sharing.  OR  Knowledge and Information. 
+NODE/DIM 193 -ve.   Information about different countries, regions, and cultures  OR  Diverse knowledge. 
+
+NODE/DIM 194 +ve.   Mathematics  OR  Mathematics. 
+NODE/DIM 194 -ve.   Names and Music.  OR Diversity of language and music. 
+
+NODE/DIM 195 +ve.   Nature  OR  Butterflies and Insects 
+NODE/DIM 195 -ve.   Politicians throughout history.  OR  Political representation. 
+
+NODE/DIM 196 +ve.   Extinction.  OR  Language and Definitions. 
+NODE/DIM 196 -ve.   Diverse Ideas.  OR  Diverse Cultural Concepts. 
+
+NODE/DIM 197 +ve.   Taxonomy  OR  Biological organisms; Places; Music and literature.
+NODE/DIM 197 -ve.   Articles about various objects and concepts.  OR  Clothing and Textiles. 
+
+NODE/DIM 198 +ve.   Computer Science Programming Languages.  OR  Software Components. 
+NODE/DIM 198 -ve.   Chemical Elements and Compounds.  OR  Inorganic chemistry. 
+
+NODE/DIM 199 +ve.   Notable Women in History.  OR  Notable individuals. 
+NODE/DIM 199 -ve.   Historical Figures and Concepts  OR  Miscellaneous information. 
+
+NODE/DIM 200 +ve.   Abstract Concepts  OR  Names and Terminology. 
+NODE/DIM 200 -ve.   Language and Communication.  OR  Language 
+
+NODE/DIM 201 +ve.   Locations  OR  Geographic Locations. 
+NODE/DIM 201 -ve.   Baronetcies  OR  Technology. 
+
+NODE/DIM 202 +ve.   Diverse Biographical Profiles.  OR  Geographical locations. 
+NODE/DIM 202 -ve.   Topics.  OR  Miscellaneous. 
+
+NODE/DIM 203 +ve.   Visual Perception.  OR  Eye Diseases 
+NODE/DIM 203 -ve.   Organizations  OR  Titles and Estates 
+
+NODE/DIM 204 +ve.   Famous Persons  OR  Historical Figures 
+NODE/DIM 204 -ve.   Language  OR Various forms of human interest and activity. 
+
+NODE/DIM 205 +ve.   Limited recognition or observation capabilities.  OR Validation and Classification 
+NODE/DIM 205 -ve.   Titles and Roles  OR  Titles and biographies of notable figures 
+
+NODE/DIM 206 +ve.   Marine, Vodou, Historical Sites, Magazines, Conventions, and Geographical Locations.  OR  Geographical locations. 
+NODE/DIM 206 -ve.   Academic institutions and disciplines.  OR  Indian culture and society. 
+
+NODE/DIM 207 +ve.   Notable Figures  OR  Biographies and historical figures 
+NODE/DIM 207 -ve.   Different aspects of knowledge and information.  OR  Cognitive Biases 
+
+NODE/DIM 208 +ve.   Biodiversity  OR  Parasitic organisms. 
+NODE/DIM 208 -ve.   Artifacts or objects.  OR  Diversity. 
+
+NODE/DIM 209 +ve.   Telecommunications.  OR  Technology 
+NODE/DIM 209 -ve.   Computer Science Terminology  OR  Mathematical Concepts 
+
+NODE/DIM 210 +ve.   Knowledge Acquisition  OR  Diverse subjects. 
+NODE/DIM 210 -ve.   Individuals in positions of authority and their roles in different contexts.  OR  Titles and offices of individuals in historical and religious contexts. 
+
+NODE/DIM 211 +ve.   Knowledge  OR  Diverse Biographical Topics 
+NODE/DIM 211 -ve.   Diverse subjects.  OR  Information Systems. 
+
+NODE/DIM 212 +ve.   Insects.  OR  Beetle species taxonomy. 
+NODE/DIM 212 -ve.   Locations.  OR  Place names. 
+
+NODE/DIM 213 +ve.   Mythology and Cultural References.  OR  Miscellaneous Cultural Concepts 
+NODE/DIM 213 -ve.   Noteworthy Figures  OR  Diverse Biography 
+
+NODE/DIM 214 +ve.   Knowledge-based systems.  OR  Information Gathering 
+NODE/DIM 214 -ve.   People from diverse backgrounds and fields.  OR  Notable Historical Figures 
+
+NODE/DIM 215 +ve.   Knowledge  OR  Information Sharing 
+NODE/DIM 215 -ve.   Historical figures and places.  OR  Historical Figures. 
+
+NODE/DIM 216 +ve.   Nature.  OR  Nature 
+NODE/DIM 216 -ve.   Elections and governance.  OR  Politicians 
+
+NODE/DIM 217 +ve.   Historical Figures and Events.  OR  People and Institutions 
+NODE/DIM 217 -ve.   Diverse cultural topics.  OR  Non-connecting topics 
+
+NODE/DIM 218 +ve.   Diverse cultural topics.  OR  Taxonomy 
+NODE/DIM 218 -ve.   Patterns and Theories.  OR  Uncertainty. 
+
+NODE/DIM 219 +ve.   Japanese Cultural Elements  OR  Asia. 
+NODE/DIM 219 -ve.   Historical Figures.  OR  Geographic locations. 
+
+NODE/DIM 220 +ve.   Geometric and Physical Phenomena.  OR  Anatomy. 
+NODE/DIM 220 -ve.   Culture and History.  OR  Microorganisms and their habitats. 
+
+NODE/DIM 221 +ve.   Diverse Topics.  OR  Martial arts. 
+NODE/DIM 221 -ve.   Games  OR  Games. 
+
+NODE/DIM 222 +ve.   Titles of various places and titles of various kinds  OR British taxonomy and history. 
+NODE/DIM 222 -ve.   Knowledge  OR  Information 
+
+NODE/DIM 223 +ve.   Group Operations  OR  Miscellaneous topography. 
+NODE/DIM 223 -ve.   Garments and clothing.  OR  Clothing 
+
+NODE/DIM 224 +ve.   Location and Geography.  OR  Geographic locations. 
+NODE/DIM 224 -ve.   Miscellaneous.  OR  Various Subjects. 
+
+NODE/DIM 225 +ve.   Music  OR  Music genres. 
+NODE/DIM 225 -ve.   Language and Linguistics.  OR  Language and Communication. 
+
+NODE/DIM 226 +ve.   Locations  OR  Political Districts 
+NODE/DIM 226 -ve.   Diverse concepts.  OR  Diverse subjects. 
+
+NODE/DIM 227 +ve.   Diversity of subjects.  OR  Historical Figures and Artistic Performances 
+NODE/DIM 227 -ve.   Publications  OR  Publications 
+
+NODE/DIM 228 +ve.   Names and titles throughout history.  OR  Historical figures and territories. 
+NODE/DIM 228 -ve.   Perception and belief.  OR  Abstract Concepts 
+
+NODE/DIM 229 +ve.   Computing and Technology.  OR  Computing and technology. 
+NODE/DIM 229 -ve.   Chemical compounds and elements.  OR  Chemical Reactions. 
+
+NODE/DIM 230 +ve.   Diverse organizations and activities.  OR  diverse activities 
+NODE/DIM 230 -ve.   Materials  OR  Miscellaneous Cultural Artifacts 
+
+NODE/DIM 231 +ve.   Miscellaneous.  OR  Species 
+NODE/DIM 231 -ve.   Russian Influence.  OR  Russian Empire's Governorate Subdivisions 
+
+NODE/DIM 232 +ve.   Diversity  OR  Abstract Concepts. 
+NODE/DIM 232 -ve.   Famous Individuals  OR  Human Endeavors 
+
+NODE/DIM 233 +ve.   Diversity  OR  Various Skills and Practices. 
+NODE/DIM 233 -ve.   Information Technology.  OR  Technology and Systems 
+
+NODE/DIM 234 +ve.   Information Management.  OR  Regulatory bodies and authorities. 
+NODE/DIM 234 -ve.   Different classifications in various domains.  OR  Technology. 
+
+NODE/DIM 235 +ve.   Mathematics.  OR  Mathematics. 
+NODE/DIM 235 -ve.   Diversity.  OR  Mexican Culture 
+
+NODE/DIM 236 +ve.   Diversity.  OR  Historical locations and entities. 
+NODE/DIM 236 -ve.   Religions in the Muslim world.  OR  World Explorers. 
+
+NODE/DIM 237 +ve.   Language and terminology.  OR  Etymology and language. 
+NODE/DIM 237 -ve.   Diverse Fields/Categories  OR  Diverse cultural and academic topics. 
+
+NODE/DIM 238 +ve.   Information Extraction.  OR  Miscellaneous 
+NODE/DIM 238 -ve.   Lactam, Leet, Spinach, Lactones, Oligopeptide, Giclee, Screw sloop, Nonviolent Communication, Kaftan, Proteoglycans - Diverse Terminologies  OR  Diversity. 
+
+NODE/DIM 239 +ve.   Knowledge  OR  Diverse Topics. 
+NODE/DIM 239 -ve.   Botany.  OR  Taxonomy. 
+
+NODE/DIM 240 +ve.   Knowledge and Techniques.  OR  Information technology 
+NODE/DIM 240 -ve.   Communication and Authority  OR  Information. 
+
+NODE/DIM 241 +ve.   Information  OR  Diverse cultural constructs. 
+NODE/DIM 241 -ve.   Diversity.  OR  Diversity. 
+
+NODE/DIM 242 +ve.   Italian Innovators or Italian Contributions.  OR  Notable Figures in Art, History, and Culture. 
+NODE/DIM 242 -ve.   Place Names  OR  Geography 
+
+NODE/DIM 243 +ve.   Information.  OR Specialized knowledge or expertise in a specific field or domain. 
+NODE/DIM 243 -ve.   Multiple Types  OR  Taxonomy. 
+
+NODE/DIM 244 +ve.   Sexuality.  OR  Human sexuality. 
+NODE/DIM 244 -ve.   Specialized Skills and Characteristics.  OR  United States  OR  Construct Validity, Jobsworth, Hypophosphatemia, The First Tractor, Traffic Stop, Widmanstatten Patterns, Exclusivism, Standard License Plates,
+POW, Nelson Rules
+NODE/DIM 245 +ve.   No coherent concept shared.  OR  Taxonomy. 
+NODE/DIM 245 -ve.   Knowledge.  OR  Educational Institutions 
+
+NODE/DIM 246 +ve.   Historical events and individuals.  OR  Uniqueness or diversity. 
+NODE/DIM 246 -ve.   Knowledge.  OR  Miscellaneous 
+
+NODE/DIM 247 +ve.   Food and culinary concepts.  OR  Food and Cuisine. 
+NODE/DIM 247 -ve.   Diversity of Topics.  OR  Art and culture. 
+
+NODE/DIM 248 +ve.   Water  OR  Water. 
+NODE/DIM 248 -ve.   Information about various regions, snacks, games, books, and moths.  OR  Nature 
+
+NODE/DIM 249 +ve.   Historical figures and concepts.  OR  Historical Figures and Events 
+NODE/DIM 249 -ve.   Japanese culture  OR  Japanese Culture 
+
+NODE/DIM 250 +ve.   Chemical elements and related concepts.  OR  Different scientific fields and concepts. 
+NODE/DIM 250 -ve.   Information and knowledge.  OR  Health and Medicine. 
+
+NODE/DIM 251 +ve.   Religious and philosophical beliefs.  OR  Miscellaneous. 
+NODE/DIM 251 -ve.   Technology and Computing.  OR  Technology 
+
+NODE/DIM 252 +ve.   Technology and history.  OR  Various fields of expertise or disciplines. 
+NODE/DIM 252 -ve.   History  OR  History 
+
+NODE/DIM 253 +ve.   Sports  OR  Sports Biography. 
+NODE/DIM 253 -ve.   Biographies of notable individuals.  OR  Famous individuals 
+
+NODE/DIM 254 +ve.   Diverse topics in various domains.  OR  Obscure and diverse subjects. 
+NODE/DIM 254 -ve.   Language and Communication.  OR  Geographical features. 
+
+NODE/DIM 255 +ve.   Naming and classification of various entities.  OR  Specific epithets and their meanings. 
+NODE/DIM 255 -ve.   Information  OR  Geographical Locations. 
+
+NODE/DIM 256 +ve.   Historical figures and cultural phenomena.  OR  Diverse biographical information. 
+NODE/DIM 256 -ve.   Names and linguistics.  OR  Naming 
+
+NODE/DIM 257 +ve.   Information Storage and Processing.  OR  Information Technology. 
+NODE/DIM 257 -ve.   Accuracy.  OR  Different forms of change/transformation. 
+
+NODE/DIM 258 +ve.   Knowledge  OR  Information 
+NODE/DIM 258 -ve.   Global Engagement  OR  Leadership 
+
+NODE/DIM 259 +ve.   Games and recreational activities.  OR  Games and gaming. 
+NODE/DIM 259 -ve.   Information sources.  OR  Distinguished Individuals 
+
+NODE/DIM 260 +ve.   Military and administrative roles.  OR  Titles of military and governmental positions in various regions and time periods. 
+NODE/DIM 260 -ve.   Recognition.  OR  Diverse Concepts. 
+
+NODE/DIM 261 +ve.   Information Systems  OR  Legal and Administrative Concepts. 
+NODE/DIM 261 -ve.   Offspring.  OR  Pregnancy and childbirth. 
+
+NODE/DIM 262 +ve.   Categorization of terms  OR  diverse 
+NODE/DIM 262 -ve.   Education.  OR  Education. 
+
+NODE/DIM 263 +ve.   Miscellaneous  OR  Miscellaneous Information 
+NODE/DIM 263 -ve.   Information Sharing.  OR  Information & Communication 
+
+NODE/DIM 264 +ve.   Diverse historical figures and institutions.  OR  Diverse Topics. 
+NODE/DIM 264 -ve.   Miscellaneous  OR  Place names. 
+
+NODE/DIM 265 +ve.   Knowledge Acquisition.  OR  Historical figures and technologies 
+NODE/DIM 265 -ve.   Ethnic groups.  OR  Indigenous Peoples. 
+
+NODE/DIM 266 +ve.   Religious Practices.  OR  Knowledge 
+NODE/DIM 266 -ve.   Political Movements  OR  Famous Personalities and Legal Cases. 
+
+NODE/DIM 267 +ve.   Various Types of Organisms  OR  Aquatic Life 
+NODE/DIM 267 -ve.   Diverse Topics.  OR  Race 
+
+NODE/DIM 268 +ve.   History and Geography.  OR  Language and Geography. 
+NODE/DIM 268 -ve.   Abstract concepts  OR  Classification of concepts. 
+
+NODE/DIM 269 +ve.   Information technology.  OR  Entities 
+NODE/DIM 269 -ve.   Educational Institutions.  OR  Academic institutions and scholars. 
+
+NODE/DIM 270 +ve.   Diverse World  OR  Places 
+NODE/DIM 270 -ve.   Knowledge discovery.  OR  Diverse cultural references. 
+
+NODE/DIM 271 +ve.   Diversity.  OR  Classification and Categorization. 
+NODE/DIM 271 -ve.   Diverse subjects.  OR  Diverse Artistic Expressions 
+
+NODE/DIM 272 +ve.   Notable historical figures.  OR  Miscellaneous 
+NODE/DIM 272 -ve.   Communication and Meaning.  OR  Language and Communication. 
+
+NODE/DIM 273 +ve.   Science  OR  Chemistry and Biology 
+NODE/DIM 273 -ve.   Body-related activities and characteristics.  OR  Miscellaneous 
+
+NODE/DIM 274 +ve.   Knowledge  OR  Natural history. 
+NODE/DIM 274 -ve.   Medicine and healthcare.  OR  Medicine 
+
+NODE/DIM 275 +ve.   Historical figures and concepts.  OR  Miscellaneous 
+NODE/DIM 275 -ve.   Mythology  OR  My concept label for these articles is: Myths and Deities from Various Cultures. 
+
+NODE/DIM 276 +ve.   Transportation.  OR  Transportation. 
+NODE/DIM 276 -ve.   Knowledge and practices of different cultures.  OR  Nature and biodiversity. 
+
+NODE/DIM 277 +ve.   Knowledge Building  OR  Law and Regulation. 
+NODE/DIM 277 -ve.   Diverse Subjects  OR  Diverse historical and scientific topics. 
+
+NODE/DIM 278 +ve.   Miscellaneous.  OR  Diverse Historical Figures and Topics. 
+NODE/DIM 278 -ve.   Optical technology.  OR  Visual Representation. 
+
+NODE/DIM 279 +ve.   Elections  OR  Mixed Topics. 
+NODE/DIM 279 -ve.   Scouting  OR  Public service organizations. 
+
+NODE/DIM 280 +ve.   Diversity.  OR  Information diversity. 
+NODE/DIM 280 -ve.   Miscellaneous.  OR  Knowledge 
+
+NODE/DIM 281 +ve.   Diversity.  OR  Miscellaneous. 
+NODE/DIM 281 -ve.   Information Gathering  OR  Miscellaneous information. 
+
+NODE/DIM 282 +ve.   United States  OR  Carinthia, Department of Economics, Administrative division, Matrix metalloproteinases, Surnames, Birmabright, Diverticulum, Merley, Asturian Language Academy, First Law of Geography.  OR  Regions. 
+NODE/DIM 282 -ve.   Diverse Perspectives.  OR  Communication. 
+
+NODE/DIM 283 +ve.   Language  OR  Names/Last Names 
+NODE/DIM 283 -ve.   Historical Figures  OR  Historical Figures 
+
+NODE/DIM 284 +ve.   Songs and music.  OR  Miscellaneous 
+NODE/DIM 284 -ve.   Cultural phenomena.  OR  Miscellaneous 
+
+NODE/DIM 285 +ve.   Geographical regions.  OR  Cultural diversity. 
+NODE/DIM 285 -ve.   Storage.  OR  Games 
+
+NODE/DIM 286 +ve.   Landmarks and Historical Buildings  OR  Locations and Organizations. 
+NODE/DIM 286 -ve.   Art and Culture.  OR  Cultural Entertainment. 
+
+NODE/DIM 287 +ve.   Medical and Psychological Sciences.  OR  Information 
+NODE/DIM 287 -ve.   Place names and geographical features.  OR  Various Locations and Individuals 
+
+NODE/DIM 288 +ve.   Species  OR  Invertebrate Species 
+NODE/DIM 288 -ve.   Diverse cultural and societal movements and phenomena.  OR  Diversity 
+
+NODE/DIM 289 +ve.   Personalities and Organizations in India.  OR  Miscellaneous/miscellany. 
+NODE/DIM 289 -ve.   Nature and species.  OR  Geographic locations in Asia. 
+
+NODE/DIM 290 +ve.   Mythology and Medical Terms.  OR mythology and cultural beliefs. 
+NODE/DIM 290 -ve.   Information Systems.  OR  Scouting in different states and its history. 
+
+NODE/DIM 291 +ve.   Technology and Science.  OR  Knowledge Compilation 
+NODE/DIM 291 -ve.   Diverse phenomena.  OR  Cold and freezing. 
+
+NODE/DIM 292 +ve.   Human Nature.  OR  Human nature. 
+NODE/DIM 292 -ve.   I am sorry, I cannot determine the concept label without analyzing the articles.  OR  Historical Figures and Places. 
+
+NODE/DIM 293 +ve.   Diverse objects with minimal connection.  OR  Marine biodiversity. 
+NODE/DIM 293 -ve.   Geographic locations  OR  Personalities and Places 
+
+NODE/DIM 294 +ve.   Places and Concepts  OR  Ancient civilizations and cultures. 
+NODE/DIM 294 -ve.   Transportation.  OR  Broad Topics 
+
+NODE/DIM 295 +ve.   Diverse applications.  OR  Humanitarianism 
+NODE/DIM 295 -ve.   Historical Locations.  OR  Species diversity. 
+
+NODE/DIM 296 +ve.   Law and Governance.  OR  Laws and Regulations. 
+NODE/DIM 296 -ve.   Projects  OR  Information Sources. 
+
+NODE/DIM 297 +ve.   Publication  OR  Record Labels 
+NODE/DIM 297 -ve.   Television Programming.  OR  Television and media. 
+
+NODE/DIM 298 +ve.   Law and Justice.  OR  Information 
+NODE/DIM 298 -ve.   Diverse historical and cultural subjects.  OR  Titles and historical events. 
+
+NODE/DIM 299 +ve.   Information Systems.  OR  Miscellaneous. 
+NODE/DIM 299 -ve.   Nature  OR  Species diversity. 
+
+NODE/DIM 300 +ve.   Diversity.  OR  Geographical Locations. 
+NODE/DIM 300 -ve.   Games and Strategies.  OR  Games and Sports. 
+
+NODE/DIM 301 +ve.   Places  OR  Transportation stations. 
+NODE/DIM 301 -ve.   Miscellaneous  OR  Diversity of subjects 
+
+NODE/DIM 302 +ve.   Information  OR  Knowledge of diverse subjects. 
+NODE/DIM 302 -ve.   Miscellaneous historical and scientific topics.  OR  Miscellaneous 
+ 
+NODE/DIM 303 +ve.   Information  OR  Knowledge and Discovery. 
+NODE/DIM 303 -ve.   Semantics  OR  Logical fallacies and cognitive biases. 
+
+NODE/DIM 304 +ve.   Diverse Cultural Topics.  OR  Diverse Locations and Subjects. 
+NODE/DIM 304 -ve.   Language and Culture.  OR  Cultural Movements. 
+
+NODE/DIM 305 +ve.   Historical Figures and Locations.  OR  Historical and geographical locations. 
+NODE/DIM 305 -ve.   Computing  OR  Computing 
+
+NODE/DIM 306 +ve.   Miscellaneous topics.  OR  Miscellaneous. 
+NODE/DIM 306 -ve.   Canadian Electoral Districts.  OR  Canadian Politics. 
+
+NODE/DIM 307 +ve.   Time.  OR  Group interactions. 
+NODE/DIM 307 -ve.   Notable Figures  OR  Journalism 
+
+NODE/DIM 308 +ve.   Spanish-speaking countries and culture.  OR  Historical figures and cultural movements. 
+NODE/DIM 308 -ve.   Group Description: Historical and Cultural Groups  OR  Species Classification 
+
+NODE/DIM 309 +ve.   Diversity of Subjects  OR  Performance 
+NODE/DIM 309 -ve.   Administrative divisions and government bodies.  OR  Administrative Positions 
+
+NODE/DIM 310 +ve.   Botany  OR  Plants. 
+NODE/DIM 310 -ve.   People and Historical Figures.  OR  German History 
+
+NODE/DIM 311 +ve.   Transportation  OR  Miscellaneous  
+NODE/DIM 311 -ve.   Diverse creations.  OR  Music albums and records. 
+
+NODE/DIM 312 +ve.   Language and Communication.  OR  Language and Culture. 
+NODE/DIM 312 -ve.   Scandal  OR  People in Various Professions and Fields. 
+
+NODE/DIM 313 +ve.   Multifaceted Cultural Narratives.  OR  Transportation. 
+NODE/DIM 313 -ve.   Mathematics and History.  OR  Numbers. 
+
+NODE/DIM 314 +ve.   Information and entertainment  OR  Transportation 
+NODE/DIM 314 -ve.   History  OR  Human discoveries and advancements. 
+
+NODE/DIM 315 +ve.   Chemical compounds and processes  OR  Chemical compounds. 
+NODE/DIM 315 -ve.   Miscellaneous  OR  Weight and Measurement. 
+
+NODE/DIM 316 +ve.   Art and Culture.  OR  Historical figures and landmarks. 
+NODE/DIM 316 -ve.   Geographical locations.  OR  Geographic locations. 
+
+NODE/DIM 317 +ve.   Academic and linguistic concepts.  OR  General Knowledge 
+NODE/DIM 317 -ve.   Personalities and Places  OR  People and Places. 
+
+NODE/DIM 318 +ve.   Language  OR  Diverse subjects. 
+NODE/DIM 318 -ve.   Definitions and Descriptions.  OR  Terminology 
+
+NODE/DIM 319 +ve.   Biodiversity.  OR  Diverse Cultural and Scientific Topics. 
+NODE/DIM 319 -ve.   I apologize, but I am unable to determine the concept label based on the information provided.  OR  People in various positions or roles. 
+
+NODE/DIM 320 +ve.   Indigenous cultures and languages.  OR  Languages and cultures of indigenous peoples in Mexico and South America. 
+NODE/DIM 320 -ve.   Properties and phenomena  OR  Locations and historical figures. 
+
+NODE/DIM 321 +ve.   Music Genres  OR  Music 
+NODE/DIM 321 -ve.   Art and Science.  OR  Museums 
+
+NODE/DIM 322 +ve.   Geographical Locations.  OR  Diverse topics. 
+NODE/DIM 322 -ve.   Miscellaneous  OR  Information dissemination. 
+
+NODE/DIM 323 +ve.   Diversity  OR  Color. 
+NODE/DIM 323 -ve.   Miscellaneous  OR  Miscellaneous. 
+
+NODE/DIM 324 +ve.   Miscellaneous Topics.  OR  Food and music. 
+NODE/DIM 324 -ve.   Structures and Locations.  OR  Lakes 
+
+NODE/DIM 325 +ve.   Different aspects of knowledge.  OR  Diversity of Subjects. 
+NODE/DIM 325 -ve.   Miscellaneous.  OR  Diversity 
+
+NODE/DIM 326 +ve.   Causes of harm or death.  OR  Death 
+NODE/DIM 326 -ve.   Geographic locations.  OR  Geographic locations. 
+
+NODE/DIM 327 +ve.   Historical and geographical aspects  OR  Crime & Governance 
+NODE/DIM 327 -ve.   Miscellaneous historical and mythological figures.  OR  Miscellaneous 
+
+NODE/DIM 328 +ve.   Historical Eras.  OR  Historical and cultural diversity. 
+NODE/DIM 328 -ve.   Diverse topics.  OR  Knowledge dissemination. 
+
+NODE/DIM 329 +ve.   Specialized fields  OR  Diverse Topics. 
+NODE/DIM 329 -ve.   Historical figures and concepts.  OR  Information about different places, historical figures, and scientific concepts. 
+
+NODE/DIM 330 +ve.   Nature  OR  Place Names 
+NODE/DIM 330 -ve.   Information Technology  OR  Knowledge Representation 
+
+NODE/DIM 331 +ve.   Diverse cultural and societal aspects.  OR  Diversity 
+NODE/DIM 331 -ve.   Weather  OR  Finance 
+
+NODE/DIM 332 +ve.   Miscellaneous Subjects  OR  Diverse Historical Figures. 
+NODE/DIM 332 -ve.   Diverse Topics.  OR  Names of Various Entities 
+
+NODE/DIM 333 +ve.   Species Classification  OR  Diverse Topics. 
+NODE/DIM 333 -ve.   Education.  OR  Education. 
+
+NODE/DIM 334 +ve.   Knowledge  OR  Information 
+NODE/DIM 334 -ve.   Names and titles of various individuals and entities.  OR  Notable individuals and achievements. 
+
+NODE/DIM 335 +ve.   Knowledge  OR  Historical and biographical figures. 
+NODE/DIM 335 -ve.   Sexuality.  OR  Diverse Cultural References. 
+
+NODE/DIM 336 +ve.   Clothing  OR  Clothing 
+NODE/DIM 336 -ve.   Food and cuisine.  OR  Food and culinary themes. 
+
+NODE/DIM 337 +ve.   Literature  OR  Various Topics. 
+NODE/DIM 337 -ve.   Transportation.  OR  Transportation. 
+
+NODE/DIM 338 +ve.   Exploration.  OR  Miscellaneous topics. 
+NODE/DIM 338 -ve.   Locations and Administrative Divisions.  OR  Places 
+
+NODE/DIM 339 +ve.   Historical Figures or Notable Individuals.  OR  Notable Figures 
+NODE/DIM 339 -ve.   Miscellaneous  OR  Entertainment 
+
+NODE/DIM 340 +ve.   Knowledge dissemination.  OR  Knowledge and expertise in various fields. 
+NODE/DIM 340 -ve.   Miscellaneous information.  OR  Information and Communication Technologies (ICT) 
+
+NODE/DIM 341 +ve.   Election processes and related concepts.  OR  Music and entertainment 
+NODE/DIM 341 -ve.   Information Systems  OR  Language and Communication. 
+
+NODE/DIM 342 +ve.   Miscellaneous  OR  Saints and nobility. 
+NODE/DIM 342 -ve.   Japanese culture.  OR  Japan 
+
+NODE/DIM 343 +ve.   Diversity  OR  Historical and cultural topics. 
+NODE/DIM 343 -ve.   Diverse Topics.  OR  Miscellaneous Information or Trivia. 
+
+NODE/DIM 344 +ve.   Historical Locations  OR  Geographical locations. 
+NODE/DIM 344 -ve.   Names and Surnames.  OR  Names and their origins. 
+
+NODE/DIM 345 +ve.   Scouting programs across multiple states.  OR  Geographic locations. 
+NODE/DIM 345 -ve.   Abstractions  OR  Scientific Taxonomy 
+
+NODE/DIM 346 +ve.   Legal and technical terminology.  OR  Communication. 
+NODE/DIM 346 -ve.   Microorganisms and organisms  OR  Microorganisms in various environments. 
+
+NODE/DIM 347 +ve.   Diverse Knowledge.  OR  Knowledge. 
+NODE/DIM 347 -ve.   Human behaviors and phenomena.  OR  Uncertainty 
+
+NODE/DIM 348 +ve.   Element properties.  OR  Scientific Concepts 
+NODE/DIM 348 -ve.   Entertainment  OR  Entertainment 
+
+NODE/DIM 349 +ve.   French History.  OR  French Influence 
+NODE/DIM 349 -ve.   Information Processing.  OR  Information 
+
+NODE/DIM 350 +ve.   Photography techniques.  OR  Visual Media 
+NODE/DIM 350 -ve.   Diversity.  OR  Information Sharing. 
+
+NODE/DIM 351 +ve.   Nature and Wildlife  OR  Nature and characteristics of different moth species. 
+NODE/DIM 351 -ve.   Historical and cultural diversity.  OR  Legal and cultural concepts in different jurisdictions. 
+
+NODE/DIM 352 +ve.   Diverse subjects.  OR  Ethnic groups and cultural identities. 
+NODE/DIM 352 -ve.   Religious and Mythological Figures.  OR  Religious figures and institutions. 
+
+NODE/DIM 353 +ve.   Special administrative regions  OR  Miscellaneous 
+NODE/DIM 353 -ve.   Marine species.  OR  Marine biodiversity. 
+
+NODE/DIM 354 +ve.   Knowledge+Education  OR  Diverse Achievements 
+NODE/DIM 354 -ve.   History.  OR  Miscellaneous Concepts 
+
+NODE/DIM 355 +ve.   diverse topics  OR  Geographic features. 
+NODE/DIM 355 -ve.   Finance  OR  Economics. 
+
+NODE/DIM 356 +ve.   Historical Artifacts.  OR  Miscellaneous. 
+NODE/DIM 356 -ve.   Education.  OR  Education. 
+
+NODE/DIM 357 +ve.   Policy-making and governance.  OR  International Cooperation. 
+NODE/DIM 357 -ve.   Species  OR  Miscellaneous: This label captures the fact that the articles cover a wide range of unrelated topics. 
+
+NODE/DIM 358 +ve.   Religious History.  OR  Churches 
+NODE/DIM 358 -ve.   Japan  OR  Natural diversity in East Asia. 
+
+NODE/DIM 359 +ve.   Geography.  OR  Titles and descriptions of various moth species from different regions and some related historical figures. 
+NODE/DIM 359 -ve.   Description of Places  OR  Knowledge. 
+
+NODE/DIM 360 +ve.   Specialized Fields  OR  Specialized Terminology. 
+NODE/DIM 360 -ve.   Words and meanings  OR  Knowledge and Perception Interaction. 
+
+NODE/DIM 361 +ve.   Historical Figures and Literary Works.  OR  People in power. 
+NODE/DIM 361 -ve.   Language  OR  Language and Communication. 
+
+NODE/DIM 362 +ve.   Nature  OR  Plants and natural organisms. 
+NODE/DIM 362 -ve.   Formations  OR  Crime and justice. 
+
+NODE/DIM 363 +ve.   Diverse concepts.  OR  Miscellaneous 
+NODE/DIM 363 -ve.   Mathematics  OR  Information 
+ 
+NODE/DIM 364 +ve.   Abstract Concepts in Various Disciplines.  OR  Language and terminology. 
+NODE/DIM 364 -ve.   Cultural diversity.  OR  Miscellaneous historical topics. 
+
+NODE/DIM 365 +ve.   Historical Figures and Mythological Figures.  OR  Historical figures. 
+NODE/DIM 365 -ve.   Information Technology.  OR  Historical Figures and Concepts. 
+
+NODE/DIM 366 +ve.   Information Management.  OR  Diverse topics. 
+NODE/DIM 366 -ve.   Name Variations  OR  Names and Nomenclature. 
+
+NODE/DIM 367 +ve.   Miscellaneous.  OR  Individuals and their societal roles. 
+NODE/DIM 367 -ve.   Information  OR  Information Sources 
+
+NODE/DIM 368 +ve.   Information  OR  Information Sources. 
+NODE/DIM 368 -ve.   Unrecognized entities or concepts.  OR  Miscellaneous 
+
+NODE/DIM 369 +ve.   Diverse topics: labels in common.  OR  Vocations. 
+NODE/DIM 369 -ve.   Information Technology  OR  Knowledge Management 
+
+NODE/DIM 370 +ve.   Greek Mythology  OR  Historical Figures. 
+NODE/DIM 370 -ve.   Miscellaneous.  OR  Nature 
+
+NODE/DIM 371 +ve.   Cultural and historical diversity.  OR  Location-based information. 
+NODE/DIM 371 -ve.   Miscellaneous.  OR  Miscellaneous. 
+
+NODE/DIM 372 +ve.   Miscellaneous  OR  Miscellaneous 
+NODE/DIM 372 -ve.   Names  OR  Not applicable 
+
+NODE/DIM 373 +ve.   Plants.  OR  Plant and animal taxonomy. 
+NODE/DIM 373 -ve.   Exploration  OR  Ancient Civilizations 
+
+NODE/DIM 374 +ve.   Linguistic and Psychological Constructs.  OR  Cultural concepts. 
+NODE/DIM 374 -ve.   Scientific classifications.  OR  Science 
+
+NODE/DIM 375 +ve.   Human Relationships  OR  Communication 
+NODE/DIM 375 -ve.   Notable Individuals.  OR  Miscellaneous Biographies and Historical Accounts. 
+
+NODE/DIM 376 +ve.   Diverse Cultural and Technical Concepts.  OR  Miscellaneous information. 
+NODE/DIM 376 -ve.   Knowledge Representation  OR  Education. 
+
+NODE/DIM 377 +ve.   Classification of various entities.  OR  Nature 
+NODE/DIM 377 -ve.   Knowledge  OR  People and Organizations 
+
+NODE/DIM 378 +ve.   Geographical locations.  OR  Knowledge about various fields of study. 
+NODE/DIM 378 -ve.   Names  OR  Miscellaneous 
+
+NODE/DIM 379 +ve.   Heritage  OR  Eastern European History. 
+NODE/DIM 379 -ve.   Animals  OR  Diversion. 
+
+NODE/DIM 380 +ve.   Japanese Mythology  OR  Art and History 
+NODE/DIM 380 -ve.   United States Locations  OR  United States 
+
+NODE/DIM 381 +ve.   Physical Activities.  OR  Outdoor Activities. 
+NODE/DIM 381 -ve.   German Geography and Science  OR  Chemical Compounds. 
+
+NODE/DIM 382 +ve.   Knowledge.  OR  People and Language. 
+NODE/DIM 382 -ve.   Names and lineages.  OR  People and Places 
+
+NODE/DIM 383 +ve.   International Relations  OR  Development 
+NODE/DIM 383 -ve.   Law and legal procedures.  OR  Law. 
+
+NODE/DIM 384 +ve.   Knowledge  OR  Diverse entities. 
+NODE/DIM 384 -ve.   Lexical Etymologies.  OR  Linguistics 
+
+NODE/DIM 385 +ve.   Miscellaneous.  OR  Nomenclature. 
+NODE/DIM 385 -ve.   Knowledge.  OR  Knowledge dissemination. 
+
+NODE/DIM 386 +ve.   Population and Demographics.  OR  Naming and Classification. 
+NODE/DIM 386 -ve.   Socialization.  OR  Communication 
+
+NODE/DIM 387 +ve.   Reason and Interpretation  OR  Names 
+NODE/DIM 387 -ve.   Language and Terminology.  OR  Language and Communication. 
+
+NODE/DIM 388 +ve.   Diversity.  OR  Miscellaneous historical figures and places. 
+NODE/DIM 388 -ve.   Disease and related topics.  OR  Geographical locations. 
+
+NODE/DIM 389 +ve.   Education  OR  Learning and knowledge acquisition. 
+NODE/DIM 389 -ve.   Historical figures and places.  OR  Geographical locations. 
+
+NODE/DIM 390 +ve.   Diverse marine and aviation subjects.  OR  marine biodiversity 
+NODE/DIM 390 -ve.   Transportation  OR  Diverse: 
+
+NODE/DIM 391 +ve.   History  OR  Miscellaneous 
+NODE/DIM 391 -ve.   Hypothetical  OR  Hypothetical and speculative ideas. 
+
+NODE/DIM 392 +ve.   Germany  OR  Geographical locations in Europe and Asia. 
+NODE/DIM 392 -ve.   Historical civilizations.  OR  Historical and cultural aspects. 
+
+NODE/DIM 393 +ve.   Information and Systems.  OR  Information Technology. 
+NODE/DIM 393 -ve.   Diverse knowledge.  OR  Miscellaneous. 
+
+NODE/DIM 394 +ve.   Titles and names in English history.  OR  Baronetcies of Extinct Creations. 
+NODE/DIM 394 -ve.   Locations and concepts.  OR  Miscellaneous. 
+
+NODE/DIM 395 +ve.   Notable historical figures.  OR  Historical Figures 
+NODE/DIM 395 -ve.   Miscellaneous.  OR  Nature and Ecology. 
+
+NODE/DIM 396 +ve.   Gender and human sexuality.  OR  Gender Roles. 
+NODE/DIM 396 -ve.   Information Science  OR  Technology 
+
+NODE/DIM 397 +ve.   Information Sharing.  OR  Historical Figures. 
+NODE/DIM 397 -ve.   Historical figures.  OR  Legendary Kings and Historical Figures 
+
+NODE/DIM 398 +ve.   Art & Society.  OR  Diverse forms of creative expression 
+NODE/DIM 398 -ve.   Law and legal system.  OR  Knowledge Acquisition. 
+
+NODE/DIM 399 +ve.   Entomology.  OR  Insect Taxonomy. 
+NODE/DIM 399 -ve.   Historical Figures or Mythological Characters.  OR  Famous Figures 
+
+NODE/DIM 400 +ve.   Cognitive and Behavioral Attributes.  OR  Diverse Concepts. 
+NODE/DIM 400 -ve.   Historical Figures and Places.  OR  Historical figures and entities. 
+
+NODE/DIM 401 +ve.   Scientific Discoveries  OR  Mollusk taxonomy 
+NODE/DIM 401 -ve.   Information  OR  Information and Knowledge. 
+
+NODE/DIM 402 +ve.   Technology  OR  Technology 
+NODE/DIM 402 -ve.   Diversity.  OR  Titles and designations. 
+
+NODE/DIM 403 +ve.   Names and Places  OR  Locations and Landmarks. 
+NODE/DIM 403 -ve.   Information.  OR  Nomenclature. 
+
+NODE/DIM 404 +ve.   Key  OR  Miscellaneous Information. 
+NODE/DIM 404 -ve.   Locations and activities.  OR  Information 
+
+NODE/DIM 405 +ve.   Entertainment and media.  OR  Television and film. 
+NODE/DIM 405 -ve.   Literature and Society  OR  Written Works 
+
+NODE/DIM 406 +ve.   Birds  OR  Terminology 
+NODE/DIM 406 -ve.   Miscellaneous.  OR  Geographic locations. 
+
+NODE/DIM 407 +ve.   Historical Figures and Events  OR  People in History 
+NODE/DIM 407 -ve.   Linguistic terms and concepts.  OR  Geographical locations. 
+
+NODE/DIM 408 +ve.   Place names.  OR  Village and locality names. 
+NODE/DIM 408 -ve.   Diverse subjects.  OR  Divisions of specialized knowledge. 
+
+NODE/DIM 409 +ve.   Music and Arts.  OR  Information 
+NODE/DIM 409 -ve.   Semantics  OR  Philosophical Ideas. 
+
+NODE/DIM 410 +ve.   Information Processing and Communication.  OR  Memory and cognition. 
+NODE/DIM 410 -ve.   Groups and associations.  OR  Surname-based Baronetcies. 
+
+NODE/DIM 411 +ve.   Information Technology and Communication.  OR  Information Systems 
+NODE/DIM 411 -ve.   Miscellaneous Descriptions  OR  Proper names. 
+
+NODE/DIM 412 +ve.   Observation.  OR  Music. 
+NODE/DIM 412 -ve.   Buildings  OR  Architecture 
+
+NODE/DIM 413 +ve.   Language and Communication  OR  Humor. 
+NODE/DIM 413 -ve.   Information Sharing.  OR  Diversity 
+
+NODE/DIM 414 +ve.   Historical Figures and Concepts.  OR  Information Technology. 
+NODE/DIM 414 -ve.   People and their cultural traditions.  OR  History 
+
+NODE/DIM 415 +ve.   Classification of various subjects.  OR  Locations 
+NODE/DIM 415 -ve.   Information  OR  Broadening Knowledge 
+
+NODE/DIM 416 +ve.   Children and Childhood.  OR  Parenting. 
+NODE/DIM 416 -ve.   Academic and scholarly pursuits.  OR  Person Profiles 
+
+NODE/DIM 417 +ve.   Geographical locations.  OR  Geographical locations in India. 
+NODE/DIM 417 -ve.   Historical institutions.  OR  Historical Figures and Places. 
+
+NODE/DIM 418 +ve.   Summary.  OR  Information 
+NODE/DIM 418 -ve.   Information  OR  Diverse Disciplines and Subjects. 
+
+NODE/DIM 419 +ve.   Miscellaneous  OR  Knowledge. 
+NODE/DIM 419 -ve.   Information  OR  Communication and Language. 
+
+NODE/DIM 420 +ve.   Diverse scientific concepts and theories.  OR  Science and academia. 
+NODE/DIM 420 -ve.   Place Names  OR  Place names. 
+
+NODE/DIM 421 +ve.   Miscellaneous.  OR  Historical Figures 
+NODE/DIM 421 -ve.   United States  OR  Drugs, Laws, Legal Procedures, Mental Health, Education, Elections, Politics, Government, Mail Delivery. 
+
+NODE/DIM 422 +ve.   Diversity.  OR  Insects. 
+NODE/DIM 422 -ve.   Education  OR  Education 
+
+NODE/DIM 423 +ve.   Taxonomy.  OR  Nature. 
+NODE/DIM 423 -ve.   Communication  OR  Media and Entertainment. 
+
+NODE/DIM 424 +ve.   Knowledge  OR  Information Technology. 
+NODE/DIM 424 -ve.   Transportation  OR  Transportation. 
+
+NODE/DIM 425 +ve.   Taxonomy.  OR  Names and Taxonomy. 
+NODE/DIM 425 -ve.   Historical and Cultural Topics.  OR  Historical figures. 
+
+NODE/DIM 426 +ve.   Games  OR  Games 
+NODE/DIM 426 -ve.   Districts and administrative divisions.  OR  Localization 
+
+NODE/DIM 427 +ve.   Knowledge  OR  Characteristics of Different Regions. 
+NODE/DIM 427 -ve.   Diverse Topics.  OR  Diverse cultural topics. 
+
+NODE/DIM 428 +ve.   Language and Communication.  OR  Information and Communication 
+NODE/DIM 428 -ve.   Birds  OR  Names 
+
+NODE/DIM 429 +ve.   Information  OR  People and Places 
+NODE/DIM 429 -ve.   Geographic locations.  OR  Location in India. 
+
+NODE/DIM 430 +ve.   Entertainment.  OR  Film and theater industry. 
+NODE/DIM 430 -ve.   Technology and Systems  OR  Knowledge and Information 
+
+NODE/DIM 431 +ve.   Miscellaneous  OR  Historical Figures and Organizations. 
+NODE/DIM 431 -ve.   Information and Tools  OR  Broadly, Diverse disciplines. 
+
+NODE/DIM 432 +ve.   Education.  OR  Diversity. 
+NODE/DIM 432 -ve.   Miscellaneous  OR  Miscellaneous. 
+
+NODE/DIM 433 +ve.   Categorization.  OR  Information Technology 
+NODE/DIM 433 -ve.   Creativity  OR  Learning and Communication. 
+
+NODE/DIM 434 +ve.   Historical Figures or Personalities.  OR  Historical figures and their contributions. 
+NODE/DIM 434 -ve.   Diverse cultures and regions.  OR  Academic Disciplines 
+
+NODE/DIM 435 +ve.   Historical figures and locations.  OR  Historical figures or entities. 
+NODE/DIM 435 -ve.   Diverse knowledge.  OR  Information Processing. 
+
+NODE/DIM 436 +ve.   Different aspects of actions or processes  OR  Publication and media. 
+NODE/DIM 436 -ve.   Government Systems  OR  Elections. 
+
+NODE/DIM 437 +ve.   Historical Artifacts  OR  Place Names. 
+NODE/DIM 437 -ve.   Diverse Topics  OR  Classification of Concepts 
+
+NODE/DIM 438 +ve.   Religious and mythological figures and concepts.  OR  Religious Figures and Concepts 
+NODE/DIM 438 -ve.   Information Technology.  OR  Diverse Geography. 
+
+NODE/DIM 439 +ve.   Various aspects of human activities.  OR  Function or Purpose. 
+NODE/DIM 439 -ve.   Historical figures and concepts.  OR  Diversity of Subjects. 
+
+NODE/DIM 440 +ve.   Diverse cultural and scientific phenomena.  OR  Historical figures and locations. 
+NODE/DIM 440 -ve.   Knowledge.  OR  Broad Knowledg 
+
+NODE/DIM 441 +ve.   The shared concept among these articles isDiverse cultural aspects.  OR  Information and Media 
+NODE/DIM 441 -ve.   Legends and historical figures.  OR  Royal Dynasties. 
+
+NODE/DIM 442 +ve.   Categorization  OR  Classification. 
+NODE/DIM 442 -ve.   Symbols  OR  Obscurity 
+
+NODE/DIM 443 +ve.   Legal and Medical Concepts.  OR  Discovery. 
+NODE/DIM 443 -ve.   Materials and Processes  OR  Broadly, Diverse Topics. 
+
+NODE/DIM 444 +ve.   Information Processing.  OR  Unidentified or Uncertain Entities 
+NODE/DIM 444 -ve.   International Connections  OR  Miscellaneous 
+
+NODE/DIM 445 +ve.   Festivals.  OR  Titles and descriptions of various geographical and historical entities. 
+NODE/DIM 445 -ve.   Locations  OR  Diverse cultural and geographical entities. 
+
+NODE/DIM 446 +ve.   Ethnicity and cultural heritage.  OR  Categories 
+NODE/DIM 446 -ve.   Telecommunications.  OR  Technology. 
+
+NODE/DIM 447 +ve.   Miscellaneous  OR  History. 
+NODE/DIM 447 -ve.   Deities and mythological creatures.  OR  Gaming and mythology. 
+
+NODE/DIM 448 +ve.   military and war  OR  Military Concepts 
+NODE/DIM 448 -ve.   Transportation and Society  OR  Political Parties. 
+
+NODE/DIM 449 +ve.   Taxonomy  OR  Biology and History 
+NODE/DIM 449 -ve.   Filters and classifications.  OR  Information 
+
+NODE/DIM 450 +ve.   Ancient Rome  OR  Family Names at Ancient Rome 
+NODE/DIM 450 -ve.   France  OR  Connections between different geographical regions and historical periods. 
+
+NODE/DIM 451 +ve.   Greek Mythology.  OR  Miscellaneous 
+NODE/DIM 451 -ve.   Miscellaneous  OR  Miscellaneous. 
+
+NODE/DIM 452 +ve.   Miscellaneous collection of unrelated topics.  OR  Regional development. 
+NODE/DIM 452 -ve.   Diversity of Subjects.  OR  Information Encoding 
+
+NODE/DIM 453 +ve.   Computer Programming  OR  Computing and technology. 
+NODE/DIM 453 -ve.   Mathematics.  OR  Mathematics. 
+
+NODE/DIM 454 +ve.   Biodiversity.  OR  Animals 
+NODE/DIM 454 -ve.   Variety  OR  Geographical locations 
+
+NODE/DIM 455 +ve.   Human agency and behavior  OR  Governance and Authority. 
+NODE/DIM 455 -ve.   Characters in different cultural and historical contexts.  OR  Obscure historical figures 
+
+NODE/DIM 456 +ve.   Classification  OR  Collecting hobbies. 
+NODE/DIM 456 -ve.   Diversity  OR  Miscellaneous 
+
+NODE/DIM 457 +ve.   Language  OR  Knowledge 
+NODE/DIM 457 -ve.   Knowledge in various disciplines.  OR  Music. 
+
+NODE/DIM 458 +ve.   Diverse Exploration.  OR  Historical and Cultural Concepts. 
+NODE/DIM 458 -ve.   Diverse articles related to different topics.  OR  Information Processing 
+
+NODE/DIM 459 +ve.   Classification  OR  Label:Division and composition 
+NODE/DIM 459 -ve.   Law and Legal Proceedings.  OR  Legal Concepts. 
+
+NODE/DIM 460 +ve.   Knowledge acquisition.  OR  Diverse Knowledge 
+NODE/DIM 460 -ve.   Time  OR  Historical Figures and Places. 
+
+NODE/DIM 461 +ve.   Miscellaneous  OR  Information Technology. 
+NODE/DIM 461 -ve.   Taxonomy  OR  Family History 
+
+NODE/DIM 462 +ve.   Names  OR  Abstract Concepts. 
+NODE/DIM 462 -ve.   Place  OR  Location. 
+
+NODE/DIM 463 +ve.   Diverse Subjects.  OR  Miscellaneous. 
+NODE/DIM 463 -ve.   Diversity.  OR  Institutions and Concepts 
+
+NODE/DIM 464 +ve.   Biographies  OR  Loose collaborations and diverse topics. 
+NODE/DIM 464 -ve.   Diversification  OR  Impression Management, Hit and Run, Self-Employment, Lurker, Harriman, Office-Holder, Conscientiousness, Tokhtamysh, Spiff, Medical Savings Account 
+
+NODE/DIM 465 +ve.   Sexuality.  OR  Sexuality. 
+NODE/DIM 465 -ve.   Geographical locations.  OR  Exploration. 
+
+NODE/DIM 466 +ve.   Deterioration  OR  Mathematics. 
+NODE/DIM 466 -ve.   Words  OR  Naming 
+
+NODE/DIM 467 +ve.   Information Technology.  OR  Government 
+NODE/DIM 467 -ve.   Broad Concepts  OR  Skills/Expertise. 
+
+NODE/DIM 468 +ve.   History  OR  History 
+NODE/DIM 468 -ve.   Religious Figures and Concepts  OR  Religion. 
+
+NODE/DIM 469 +ve.   Diversity.  OR  Geographical locations. 
+NODE/DIM 469 -ve.   Titles and Titles  OR  Miscellaneous. 
+
+NODE/DIM 470 +ve.   Language  OR  Language phenomena. 
+NODE/DIM 470 -ve.   Classification of groups  OR  Historical and cultural entities. 
+
+NODE/DIM 471 +ve.   Knowledge  OR  Niche Interests. 
+NODE/DIM 471 -ve.   Fluids and liquids.  OR  Miscellaneous 
+
+NODE/DIM 472 +ve.   Miscellaneous.  OR  Knowledge or Information-sharing 
+NODE/DIM 472 -ve.   Knowledge in Various Disciplines.  OR  Academic Disciplines. 
+
+NODE/DIM 473 +ve.   Organisms in various taxonomic groups.  OR  Taxonomy. 
+NODE/DIM 473 -ve.   Childhood and Parenthood.  OR  Childhood 
+
+NODE/DIM 474 +ve.   Diversity of Topics.  OR  Diverse interests. 
+NODE/DIM 474 -ve.   Linguistics and grammar.  OR  Language and Linguistics. 
+
+NODE/DIM 475 +ve.   Mathematics  OR  Mathematics. 
+NODE/DIM 475 -ve.   Learning  OR  Titles or names of historical figures 
+
+NODE/DIM 476 +ve.   Miscellaneous Topics.  OR  Nature. 
+NODE/DIM 476 -ve.   Diversity.  OR  Miscellaneous topics 
+
+NODE/DIM 477 +ve.   Frozen phenomena.  OR  Diverse Concepts. 
+NODE/DIM 477 -ve.   London  OR  British History 
+
+NODE/DIM 478 +ve.   Geography.  OR  Finance. 
+NODE/DIM 478 -ve.   Diverse Topics.  OR  Work and labor. 
+
+NODE/DIM 479 +ve.   Diverse Concepts  OR  Labels 
+NODE/DIM 479 -ve.   Taxonomy  OR  Knowledge. 
+
+NODE/DIM 480 +ve.   Locations and Places.  OR  Location 
+NODE/DIM 480 -ve.   Abstract properties of objects and phenomena.  OR  Diverse Structures 
+
+NODE/DIM 481 +ve.   Games and Sports.  OR  Games. 
+NODE/DIM 481 -ve.   Names and Titles  OR  Nature 
+
+NODE/DIM 482 +ve.   Justice  OR  Education 
+NODE/DIM 482 -ve.   Titles and labels for various entities or concepts.  OR  Miscellaneous Information. 
+
+NODE/DIM 483 +ve.   Technology.  OR  Printing and Publishing 
+NODE/DIM 483 -ve.   Various fields of study and historical figures  OR  Academic Studies and Research. 
+
+NODE/DIM 484 +ve.   Foreign relations.  OR  Locations in different countries that are identified by distinct regions or areas. 
+NODE/DIM 484 -ve.   various subjects.  OR  Abstract Concepts in various fields. 
+
+NODE/DIM 485 +ve.   Abstract Concepts  OR  Diverse religious and cultural movements. 
+NODE/DIM 485 -ve.   Canadian Geography.  OR  Lost Villages 
+
+NODE/DIM 486 +ve.   Names  OR  Historical Figures 
+NODE/DIM 486 -ve.   Recreation  OR  Events 
+
+NODE/DIM 487 +ve.   Knowledge Domains  OR  Information Technology. 
+NODE/DIM 487 -ve.   Linguistic concepts.  OR  Information. 
+
+NODE/DIM 488 +ve.   Miscellaneous  OR  Film and entertainment. 
+NODE/DIM 488 -ve.   Broadcast media.  OR  Different forms of media and platforms. 
+
+NODE/DIM 489 +ve.   Miscellaneous  OR  Diverse Concepts. 
+NODE/DIM 489 -ve.   Food and culinary traditions.  OR  Food and culinary topics. 
+
+NODE/DIM 490 +ve.   Geographical Locations.  OR  Locale 
+NODE/DIM 490 -ve.   Mythology and Cultural Beliefs.  OR  Diverse concepts 
+
+NODE/DIM 491 +ve.   Monetary transactions.  OR  Economics 
+NODE/DIM 491 -ve.   Information and Communication Technologies (ICT)  OR  Diverse topics. 
+
+NODE/DIM 492 +ve.   Topics  OR  Dogs 
+NODE/DIM 492 -ve.   Games and gaming.  OR  Games 
+
+NODE/DIM 493 +ve.   Education  OR  Education. 
+NODE/DIM 493 -ve.   Relationships  OR  Relationships 
+
+NODE/DIM 494 +ve.   Learning  OR  Artistic Techniques 
+NODE/DIM 494 -ve.   Names  OR  Names 
+
+NODE/DIM 495 +ve.   Knowledge  OR  Diverse Cultural Concepts. 
+NODE/DIM 495 -ve.   Information Extraction.  OR  Linguistic aspects. 
+
+NODE/DIM 496 +ve.   Knowledge  OR  Historical Figures and Events 
+NODE/DIM 496 -ve.   Concepts and Abstract Ideas  OR  Religion and belief systems. 
+
+NODE/DIM 497 +ve.   Different aspects of human activities.  OR  Adaptation and Evolution. 
+NODE/DIM 497 -ve.   Diversity.  OR  Knowledge sharing. 
+
+NODE/DIM 498 +ve.   Supernatural phenomena.  OR  Supernatural phenomena. 
+NODE/DIM 498 -ve.   Language and Communication.  OR  Miscellaneous topics. 
+
+NODE/DIM 499 +ve.   Information and categorization  OR  Law and Governance. 
+NODE/DIM 499 -ve.   Communication  OR  Documentation 
+
+NODE/DIM 500 +ve.   Historical classification  OR  Information 
+NODE/DIM 500 -ve.   Knowledge.  OR  Geographic locations. 
+
+NODE/DIM 501 +ve.   Religion and spirituality.  OR  Diverse concepts related to philosophy and religion. 
+NODE/DIM 501 -ve.   Knowledge about different cultures and historical periods.  OR  Insects of Europe. 
+
+NODE/DIM 502 +ve.   Visual Arts.  OR  Textiles 
+NODE/DIM 502 -ve.   Musical genres and styles.  OR  Music and literature. 
+
+NODE/DIM 503 +ve.   Miscellaneous.  OR  Diverse Locations 
+NODE/DIM 503 -ve.   Diverse topics  OR  Intellectual Property 
+
+NODE/DIM 504 +ve.   Information Classification.  OR  Music. 
+NODE/DIM 504 -ve.   Knowledge  OR  Diversity. 
+
+NODE/DIM 505 +ve.   Language and Linguistics.  OR  Language and Linguistics. 
+NODE/DIM 505 -ve.   Knowledge  OR  Analyzing decision-making processes in various contexts. 
+
+NODE/DIM 506 +ve.   Diverse applications.  OR  Miscellaneous 
+NODE/DIM 506 -ve.   Medicine and medical science.  OR  Medical conditions 
+
+NODE/DIM 507 +ve.   Information systems.  OR  Historical Figures and Events. 
+NODE/DIM 507 -ve.   Botany.  OR  Plants 
+
+NODE/DIM 508 +ve.   Historical Figures and Mythology  OR  Language and terminology. 
+NODE/DIM 508 -ve.   Information about various geographical regions and social groups in the United Kingdom and India.  OR  People and Places 
+
+NODE/DIM 509 +ve.   Cultural and geographical diversity.  OR  Knowledge. 
+NODE/DIM 509 -ve.   Topics  OR  Broad Concepts 
+
+NODE/DIM 510 +ve.   Mathematics.  OR  Mathematics. 
+NODE/DIM 510 -ve.   Diverse subjects.  OR  Diverse Contributions. 
+
+NODE/DIM 511 +ve.   Literature and storytelling.  OR  Textual creations. 
+NODE/DIM 511 -ve.   Abstract concepts  OR  Music 
+
+NODE/DIM 512 +ve.   Scouting and diverse concepts.  OR  Government departments and electoral districts 
+NODE/DIM 512 -ve.   Names  OR  Names and identities. 
+
