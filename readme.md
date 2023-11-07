@@ -6,10 +6,8 @@ information available about the process that derives them leads to wariness
 about aspects of their use.  For example, studying whether discriminatory biases 
 exist deep within the model can be difficult.
 
-In some cases involving highly self-referential data, such as a language (where 
-each word/document can be exactly described using other words) it might be possible
-to peek inside the box and understand what internal representions (concepts) the 
-algorithm is using to make its inferences.
+In some cases it might be possible to peek inside the box and understand what 
+internal representions (concepts) the algorithm is using to make its inferences.
 
 ## Bug Or Feature
 
