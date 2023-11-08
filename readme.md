@@ -66,7 +66,7 @@ the concept labelling function is called twice per direction (_i.e._ four times 
 to compare the results from the top 10 articles to the following 10 articles.  A similar/coherent
 result between all of these data points should act as a validation step for any discovered concepts.
 
-## Um... "Pandora" Yes?  Does It Work?
+## Um... "Pandora", Yes?  Does It Work?
 
 Overlooking the 'vengeful gods releasing evils into the world' aspects of the Pandora myth, and instead just focusing whether this 'box' gets opened, we can draw some conclusions.
 
