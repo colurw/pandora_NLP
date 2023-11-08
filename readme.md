@@ -8,6 +8,8 @@ exist deep within the model can be difficult.
 
 In some cases it might be possible to peek inside the box and understand what 
 internal representions (concepts) the algorithm is using to make its inferences.
+Ideally, this would mean understanding what each node is representing, and hence
+its contribution to the network's final output.
 
 ## Bug Or Feature
 
