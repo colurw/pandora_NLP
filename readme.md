@@ -68,7 +68,7 @@ result between all of these data points should act as a validation step for any 
 
 ## Um... "Pandora", Yes?  Does It Work?
 
-Overlooking the 'vengeful gods releasing evils into the world' aspects of the Pandora myth, and instead just focusing whether this 'box' gets opened, we can draw some conclusions.
+Overlooking the 'vengeful gods releasing evils into the world' aspects of the Pandora myth, and instead just focusing whether this 'box' gets opened, we can draw some conclusions...
 
 Often the dimensions were found have a summarisable and validated concept in only one direction, meaning they demonstrate a cohesive group of keywords found in both the top 100 & top 300 articles, and which related to the two concepts described in the top 0-10 & top 11-20 articles.  
 
