@@ -38,6 +38,9 @@ The aim of this project is to describe the abstracted concepts represented by th
 nodes/dimensions in a Universal Sentence Encoder model, by analysing the contents 
 of documents that trigger the largest activations (both +/-) of a particular node. 
 
+The documents used are the dataset of 1.2 million first paragraphs of Wikipedia pages,
+created by github.com/colurw/wiki_abstracts_NLP
+
 ## Python Scripts
 
 #### 1_find_extreme_articles 
