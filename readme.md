@@ -1,15 +1,14 @@
 # pandora_NLP
 
-Deep learning models can be critised for taking a 'black box' approach to
-modelling data.  Whilst we can judge the accuracy of their outputs, the lack of 
+Deep learning models can be criticised for taking a 'black box' approach to
+modelling data.  Whilst one can judge the accuracy of their outputs, the lack of 
 information available about the process that derives them leads to wariness 
 about some aspects of their use.  For example, studying whether discriminatory biases 
 exist deep within a model can be difficult.
 
-In some cases it might be possible to peek inside this box and understand what 
-internal representions (concepts) the algorithm is using to make its inferences.
-Ideally, this would mean understanding what each network node is representing, and
-its contribution to the network's final output.
+In some cases, it might be possible to peek inside this box and understand what 
+internal representations (concepts) the algorithm is using to make its inferences.
+Ideally, this would mean understanding what each network node represents in the feature map at that point, and its contribution to the network's final output.
 
 ## Bug Or Feature
 
@@ -32,10 +31,10 @@ These 'cardinal' concepts are learned by the machine as the most efficient way t
 distinguish between individual training documents.
 
 Embeddings are created by saving feature vectors emerging at the middle layer 
-(_i.e._ the layer with the fewest nodes) of an autoencoder neural network.
+(_i.e._, the layer with the fewest nodes) of an autoencoder neural network.
 
 The aim of this project is to describe the abstracted concepts represented by these 
-nodes/dimensions in a Universal Sentence Encoder model, by analysing the contents 
+nodes/dimensions in a Universal Sentence Encoder (USE) model, by analysing the contents 
 of documents that trigger the largest activations (both +/-) of a particular node. 
 
 The documents used are the dataset of 1.2 million first paragraphs of Wikipedia pages,
@@ -46,8 +45,9 @@ created by github.com/colurw/wiki_abstracts_NLP
 #### 1_find_extreme_articles 
 
 Searches through the embedded data for articles with the highest values in a particular
-dimension of their feature vector.  It creates a list of which (if any) dimension each
-article in the dataset strongly represents.
+dimension of their feature vector.  It creates a list of which dimension each
+article in the dataset strongly activates, with placeholders ('-1') if the article
+is not one of the top 300 activating articles for any dimension.
 
 #### 2_TF-IDF_keywords
 
@@ -70,12 +70,12 @@ result acting as a (simplistic) validation for any discovered concepts.
 
 ## Um... "Pandora", Yes?  Does It Work?
 
-Overlooking the 'vengeful gods releasing evils into the world' aspects, and instead just focusing whether 'the box' gets opened, we can draw some conclusions...
+Overlooking the 'vengeful gods releasing evils into the world' aspects, and instead just focusing whether 'the box' gets opened, we can draw some conclusions.
 
-Often the dimensions were found have a summarisable and 'validated' concept in only one direction. Typically in these cases, the other direction of the dimension will give much more varied (almost random) results, with their two concepts being labelled as "diverse" or "miscellaneous", or having no obvious similarity.  Notably, when opposite ends of a dimension could be labelled with a degree of certainty, their concept labels were unrelated ("Film and entertainment / Performing Arts" _vs._ "Exploration / Historical Figures and Events"), rather than being mutual opposites. (_E.g._ "Childhood / Children's Education" _vs._ "Death and its various aspects / Death".
+Often the dimensions were found to have a surmisable and 'validated' concept in only one direction. Typically, in these cases, the other direction of the dimension will give much more varied (almost random) results, with their two concepts being labelled as "diverse" or "miscellaneous" or having no obvious similarity.  Notably, when opposite ends of a dimension could be labelled with a degree of certainty, their concept labels were unrelated ("Film and entertainment / Performing Arts" _vs._ "Exploration / Historical Figures and Events"), rather than being mutual opposites. (_E.g._ "Childhood / Children's Education" _vs._ "Death and its various aspects / Death").
 
 This was not always the case however, and many dimensions did not demonstrate an easily-determinable concept label in either direction.
 
-It might be possible to improve on these results by not just searching for the most extreme articles for a given dimension, but instead finding articles for which the direction of its feature vector (in multi-dimensional space) is more closely aligned with the dimension of interest - _i.e._ the other numbers in its feature vector are closer to zero, compared to the (normally distributed) random numbers found at present.
+It might be possible to improve on these results by not just searching for the most extreme articles for a given dimension, but instead finding articles for which the direction of its feature vector (in multi-dimensional space) is more closely aligned with the dimension of interest - _i.e._, the other numbers in its feature vector are closer to zero, compared to the (normally distributed) random numbers found at present.
 
 The ChatGPT prompt could be improved/optimised, for example by including the results of the keyword analysis, or by connecting to a more recent (and costly) model, or simply by feeding it more than ten articles at a time.  
