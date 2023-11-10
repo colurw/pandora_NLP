@@ -1,10 +1,11 @@
 # pandora_NLP
 
+<img src="https://github.com/colurw/pandora_NLP/assets/66322644/aa26371a-0df5-4321-9e2f-4bc0b72a3f65" align="right" width="500px"/>
 Deep learning models can be criticised for taking a 'black box' approach to
 modelling data.  Whilst one can judge the accuracy of their outputs, the lack of 
 information available about the process that derives them leads to wariness 
 about some aspects of their use.  For example, studying whether discriminatory biases 
-exist deep within a model can be difficult. 
+exist deep within a model can be difficult. <br><br>
 
 In some cases, it might be possible to peek inside this box and understand what 
 latent feature representations (concepts) the algorithm is using to make its inferences.
@@ -12,33 +13,35 @@ Ideally, this would mean understanding what each network node represents in the 
 
 ## Bug Or Feature
 
-In machine learning, each row of training data is represented by a feature
-vector (a list of numbers).  Each number in the vector can be thought of as point along a unique axis/dimension.
+In machine learning, each row of training data is represented by a feature vector (a list of 
+numbers).  Each number in the vector can be thought of as point along a unique axis/dimension.
 
 As a feature vector passes through a neural network, the number of its dimensions 
 is often altered by each new layer, with each node in that layer
-representing one dimension.  The effect of this is the abstraction of latent features (meaning they cannot be directly observed) - hence the black box problem.
+representing one dimension.  The effect of this is the abstraction of latent features (meaning 
+they cannot be directly observed) - hence the black box problem. <br clear="right"/>
 
 ## Embeddings As Node Activation States
 
-<img src="https://github.com/colurw/pandora_NLP/assets/66322644/aa26371a-0df5-4321-9e2f-4bc0b72a3f65" align="right" width="500px"/>
 A document-level NLP embedding is an example of a dataset processed to reduce 
 dimensionality, where large one-hot encoded vectors representing individual words
 in each document are compressed into smaller feature vectors, where each value in the vector represents
-a concept (as understood by the computer) in the document.  <br>
+a concept (as understood by the computer) in the document.
 
 These latent cardinal concepts are learned by the machine as the most efficient way to
-distinguish between variance in the training documents, whilst retaining information about their entanglement. <br>
+distinguish between variance in the training documents, whilst retaining information about their entanglement. For example, linear relationships are preserved.
+
+![image](https://github.com/colurw/pandora_NLP/assets/66322644/cc00c9eb-2711-4738-9bae-5923dc4593a9)
 
 Embeddings are created by saving feature vectors emerging at the middle layer 
-(_i.e._, the layer with the fewest nodes) of an autoencoder neural network. <br>
+(_i.e._, the layer with the fewest nodes) of an autoencoder neural network.
 
 The aim of this project is to describe the abstracted concepts represented by these 
 nodes/dimensions in a Universal Sentence Encoder (USE) large language model, by analysing the contents 
-of documents that trigger the largest activations (both +/-) of a particular node. <br>
+of documents that trigger the largest activations (both +/-) of a particular node.
 
 The documents used are the dataset of 1.2 million first paragraphs of Wikipedia pages,
-created by github.com/colurw/wiki_abstracts_NLP <br clear="right"/>
+created by github.com/colurw/wiki_abstracts_NLP 
 
 ## Python Scripts
 
