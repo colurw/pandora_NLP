@@ -7,8 +7,8 @@ about some aspects of their use.  For example, studying whether discriminatory b
 exist deep within a model can be difficult.
 
 In some cases, it might be possible to peek inside this box and understand what 
-internal representations (concepts) the algorithm is using to make its inferences.
-Ideally, this would mean understanding what each network node represents in the feature map at that point, and its contribution to the network's final output.
+latent feature representations (concepts) the algorithm is using to make its inferences.
+Ideally, this would mean understanding what each network node represents in the latent space.
 
 ## Bug Or Feature
 
@@ -16,7 +16,7 @@ In machine learning, each row of training data is represented by a feature
 vector (a list of numbers).  Each number in the vector can be thought of as point along a unique axis/dimension.
 
 As a feature vector passes through a neural network, the number of its dimensions 
-is often altered by each new layer, with one node in that layer
+is often altered by each new layer, with each node in that layer
 representing one new dimension.  The effect of this is the abstraction of the features beyond 
 human comprehension - hence the black box problem.
 
@@ -25,7 +25,7 @@ human comprehension - hence the black box problem.
 A document-level NLP embedding is an example of a dataset processed to reduce 
 dimensionality, where large one-hot encoded vectors representing individual words
 in each document are compressed into smaller feature vectors, where each value in the vector represents
-a concept (as understood by the computer) found in the document corpus.  
+a concept (as understood by the computer) in the document.  
 
 These 'cardinal' concepts are learned by the machine as the most efficient way to
 distinguish between individual training documents.
@@ -47,7 +47,7 @@ created by github.com/colurw/wiki_abstracts_NLP
 Searches through the embedded data for articles with the highest values in a particular
 dimension of their feature vector.  It creates a list of which dimension each
 article in the dataset strongly activates, with placeholders ('-1') if the article
-is not one of the top 300 activating articles for any dimension.
+is not one of the most activating articles for any dimension.
 
 #### 2_TF-IDF_keywords
 
