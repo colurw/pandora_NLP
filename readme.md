@@ -34,7 +34,7 @@ Embeddings are created by saving feature vectors emerging at the middle layer
 (_i.e._, the layer with the fewest nodes) of an autoencoder neural network. <br>
 
 The aim of this project is to describe the abstracted concepts represented by these 
-nodes/dimensions in a Universal Sentence Encoder (USE) model, by analysing the contents 
+nodes/dimensions in a Universal Sentence Encoder (USE) large language model, by analysing the contents 
 of documents that trigger the largest activations (both +/-) of a particular node. <br>
 
 The documents used are the dataset of 1.2 million first paragraphs of Wikipedia pages,
