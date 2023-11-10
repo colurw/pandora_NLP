@@ -78,4 +78,4 @@ This was not always the case however, and many dimensions did not demonstrate an
 
 It might be possible to improve on these results by not just searching for the most extreme articles for a given dimension, but instead finding articles for which the direction of its feature vector (in multi-dimensional space) is more closely aligned with the dimension of interest - _i.e._, the other numbers in its feature vector are closer to zero, compared to the (normally distributed) random numbers found at present.
 
-The ChatGPT prompt could be improved/optimised, for example by including the results of the keyword analysis, or by connecting to a more recent (and costly) model, or simply by feeding it more than ten articles at a time.  
+The ChatGPT prompt could be optimised, for example by improving the system prompt, including the results of the keyword analysis, by connecting to a more recent (and costly) model, or simply by feeding it more than ten articles at a time.  
