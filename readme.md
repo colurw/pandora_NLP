@@ -1,6 +1,7 @@
 # pandora_NLP
 
 <img src="https://github.com/colurw/pandora_NLP/assets/66322644/aa26371a-0df5-4321-9e2f-4bc0b72a3f65" align="right" width="500px"/>
+
 Deep learning models can be criticised for taking a 'black box' approach to
 modelling data.  Whilst one can judge the accuracy of their outputs, the lack of 
 information available about the process that derives them leads to wariness 
@@ -21,17 +22,19 @@ is often altered by each new layer, with each node in that layer
 representing one dimension.  The effect of this is the abstraction of latent features (meaning 
 they cannot be directly observed) - hence the black box problem. <br clear="right"/>
 
-## Embeddings As Node Activation States
+## Embeddings
 
-A document-level NLP embedding is an example of a dataset processed to reduce 
+A document-level NLP embedding is an example of a dataset processed by an autoencoder to reduce 
 dimensionality, where large one-hot encoded vectors representing individual words
-in each document are compressed into smaller feature vectors, where each value in the vector represents
-a concept (as understood by the computer) in the document.
+in each document are compressed into smaller feature vectors. Each value in the vector represents
+a concept in the autoencoder's training corpus.
 
 These latent cardinal concepts are learned by the machine as the most efficient way to
 distinguish between variance in the training documents, whilst retaining information about their entanglement. For example, linear relationships are preserved.
 
-![image](https://github.com/colurw/pandora_NLP/assets/66322644/cc00c9eb-2711-4738-9bae-5923dc4593a9)
+![image](https://github.com/colurw/pandora_NLP/assets/66322644/8e41a051-757d-4b63-a85d-5701a7941fc5)
+
+## Embeddings As Node Activation States
 
 Embeddings are created by saving feature vectors emerging at the middle layer 
 (_i.e._, the layer with the fewest nodes) of an autoencoder neural network.
