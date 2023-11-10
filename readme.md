@@ -27,7 +27,7 @@ dimensionality, where large one-hot encoded vectors representing individual word
 in each document are compressed into smaller feature vectors, where each value in the vector represents
 a concept (as understood by the computer) in the document.  <br>
 
-These 'cardinal' concepts are learned by the machine as the most efficient way to
+These latent cardinal concepts are learned by the machine as the most efficient way to
 distinguish between individual training documents. <br>
 
 Embeddings are created by saving feature vectors emerging at the middle layer 
