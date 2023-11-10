@@ -1,5 +1,6 @@
 # pandora_NLP
 
+<img src="https://github.com/colurw/pandora_NLP/assets/66322644/aa26371a-0df5-4321-9e2f-4bc0b72a3f65" align="right" width="450px"/>
 Deep learning models can be criticised for taking a 'black box' approach to
 modelling data.  Whilst one can judge the accuracy of their outputs, the lack of 
 information available about the process that derives them leads to wariness 
@@ -8,10 +9,10 @@ exist deep within a model can be difficult.
 
 In some cases, it might be possible to peek inside this box and understand what 
 latent feature representations (concepts) the algorithm is using to make its inferences.
-Ideally, this would mean understanding what each network node represents in the latent space.
+Ideally, this would mean understanding what each network node represents in the latent space. <br clear="right"/>
 
 ## Bug Or Feature
-<img src="https://github.com/colurw/pandora_NLP/assets/66322644/aa26371a-0df5-4321-9e2f-4bc0b72a3f65" align="right" width="450px"/>
+
 In machine learning, each row of training data is represented by a feature
 vector (a list of numbers).  Each number in the vector can be thought of as point along a unique axis/dimension.
 
