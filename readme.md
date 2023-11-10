@@ -1,15 +1,14 @@
 # pandora_NLP
 
-<img src="https://github.com/colurw/pandora_NLP/assets/66322644/aa26371a-0df5-4321-9e2f-4bc0b72a3f65" align="right" width="450px"/>
 Deep learning models can be criticised for taking a 'black box' approach to
 modelling data.  Whilst one can judge the accuracy of their outputs, the lack of 
 information available about the process that derives them leads to wariness 
 about some aspects of their use.  For example, studying whether discriminatory biases 
-exist deep within a model can be difficult.
+exist deep within a model can be difficult. 
 
 In some cases, it might be possible to peek inside this box and understand what 
 latent feature representations (concepts) the algorithm is using to make its inferences.
-Ideally, this would mean understanding what each network node represents in the latent space. <br clear="right"/>
+Ideally, this would mean understanding what each network node represents in the latent space.
 
 ## Bug Or Feature
 
@@ -20,28 +19,26 @@ As a feature vector passes through a neural network, the number of its dimension
 is often altered by each new layer, with each node in that layer
 representing one dimension.  The effect of this is the abstraction of latent features (meaning they cannot be directly observed) - hence the black box problem.
 
-
-
-
 ## Embeddings As Node Activation States
 
+<img src="https://github.com/colurw/pandora_NLP/assets/66322644/aa26371a-0df5-4321-9e2f-4bc0b72a3f65" align="right" width="500px"/>
 A document-level NLP embedding is an example of a dataset processed to reduce 
 dimensionality, where large one-hot encoded vectors representing individual words
 in each document are compressed into smaller feature vectors, where each value in the vector represents
-a concept (as understood by the computer) in the document.  
+a concept (as understood by the computer) in the document.  <br>
 
 These 'cardinal' concepts are learned by the machine as the most efficient way to
-distinguish between individual training documents.
+distinguish between individual training documents. <br>
 
 Embeddings are created by saving feature vectors emerging at the middle layer 
-(_i.e._, the layer with the fewest nodes) of an autoencoder neural network.
+(_i.e._, the layer with the fewest nodes) of an autoencoder neural network. <br>
 
 The aim of this project is to describe the abstracted concepts represented by these 
 nodes/dimensions in a Universal Sentence Encoder (USE) model, by analysing the contents 
-of documents that trigger the largest activations (both +/-) of a particular node. 
+of documents that trigger the largest activations (both +/-) of a particular node. <br>
 
 The documents used are the dataset of 1.2 million first paragraphs of Wikipedia pages,
-created by github.com/colurw/wiki_abstracts_NLP
+created by github.com/colurw/wiki_abstracts_NLP <br clear="right"/>
 
 ## Python Scripts
 
