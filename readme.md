@@ -28,7 +28,7 @@ in each document are compressed into smaller feature vectors, where each value i
 a concept (as understood by the computer) in the document.  <br>
 
 These latent cardinal concepts are learned by the machine as the most efficient way to
-distinguish between individual training documents. <br>
+distinguish between variance in the training documents, whilst retaining information about their entanglement. <br>
 
 Embeddings are created by saving feature vectors emerging at the middle layer 
 (_i.e._, the layer with the fewest nodes) of an autoencoder neural network. <br>
