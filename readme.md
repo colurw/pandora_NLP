@@ -47,7 +47,7 @@ created by github.com/colurw/wiki_abstracts_NLP
 Searches through the embedded data for articles with the highest values in a particular
 dimension of their feature vector.  It creates a list of which dimension each
 article in the dataset strongly activates, with placeholders ('-1') if the article
-is not one of the most activating articles for any dimension.
+is not one of the most extreme articles in any dimension.  
 
 #### 2_TF-IDF_keywords
 
@@ -66,7 +66,7 @@ In an effort to eliminate the effects of noise in the data, the keywords found i
 top 100 articles for the dimension are compared to those of the top 300 articles.  Also,
 the concept labelling function is called twice per direction (four times per dimension)
 to compare the top 10 articles to the following 10 articles.  A similar/coherent
-result acting as a (simplistic) validation for any discovered concepts.
+result acting as a (simplistic) validation of any discovered concepts.
 
 ## Um... "Pandora", Yes?  Does It Work?
 
