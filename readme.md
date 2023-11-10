@@ -30,7 +30,7 @@ in each document are compressed into smaller feature vectors. Each value in the 
 a concept in the autoencoder's training corpus.
 
 These latent cardinal concepts are learned by the machine as the most efficient way to
-distinguish between variance in the training documents, whilst retaining information about their entanglement. For example, linear relationships are preserved.
+distinguish between variance in the training documents, whilst retaining information about their entanglement. For example, linear relationships are preserved in latent space.
 
 ![image](https://github.com/colurw/pandora_NLP/assets/66322644/8e41a051-757d-4b63-a85d-5701a7941fc5)
 
