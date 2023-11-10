@@ -11,14 +11,16 @@ latent feature representations (concepts) the algorithm is using to make its inf
 Ideally, this would mean understanding what each network node represents in the latent space.
 
 ## Bug Or Feature
-
+<img src="https://github.com/colurw/pandora_NLP/assets/66322644/aa26371a-0df5-4321-9e2f-4bc0b72a3f65" align="right" width="550px"/>
 In machine learning, each row of training data is represented by a feature
 vector (a list of numbers).  Each number in the vector can be thought of as point along a unique axis/dimension.
 
 As a feature vector passes through a neural network, the number of its dimensions 
 is often altered by each new layer, with each node in that layer
-representing one new dimension.  The effect of this is the abstraction of the features beyond 
-human comprehension - hence the black box problem.
+representing one dimension.  The effect of this is the abstraction of latent features (meaning they cannot be directly observed) - hence the black box problem.
+
+
+
 
 ## Embeddings As Node Activation States
 
