@@ -74,13 +74,11 @@ the concept labelling function is called twice per direction (four times per dim
 to compare the top 10 articles to the following 10 articles.  A similar/coherent
 result acting as a (simplistic) validation of any discovered concepts.
 
-## Um... "Pandora", Yes?  Does It Work?
+## "Pandora", Yes?  Does It Work?
 
-Overlooking the 'vengeful gods releasing evils into the world' aspects, and instead just focusing whether 'the box' gets opened, we can draw some conclusions.
+Often the dimensions were found to have a surmisable and 'validated' concept in only one direction. Typically, in these cases, the other direction of the dimension will give much more varied (almost random) results, with their two concepts being labelled as "diverse" or "miscellaneous" or having no obvious similarity.  Notably, when opposite ends of a dimension could be labelled with a degree of certainty, their concept labels were unrelated ("Film and entertainment / Performing Arts" _vs._ "Exploration / Historical Figures and Events"), rather than being mutual opposites. (_E.g._ "Childhood / Children's Education" _vs._ "Death and its various aspects / Death").  This was not always the case however, and many dimensions did not demonstrate an easily-determinable concept label in either direction. 
 
-Often the dimensions were found to have a surmisable and 'validated' concept in only one direction. Typically, in these cases, the other direction of the dimension will give much more varied (almost random) results, with their two concepts being labelled as "diverse" or "miscellaneous" or having no obvious similarity.  Notably, when opposite ends of a dimension could be labelled with a degree of certainty, their concept labels were unrelated ("Film and entertainment / Performing Arts" _vs._ "Exploration / Historical Figures and Events"), rather than being mutual opposites. (_E.g._ "Childhood / Children's Education" _vs._ "Death and its various aspects / Death").
-
-This was not always the case however, and many dimensions did not demonstrate an easily-determinable concept label in either direction.
+[NB: Without further analysis I suspect the clustered nature of the articles might be adding a significant bias.  An improved sampling technique that accounts for this, may well give less coherent results.]
 
 It might be possible to improve on these results by not just searching for the most extreme articles for a given dimension, but instead finding articles for which the direction of its feature vector (in multi-dimensional space) is more closely aligned with the dimension of interest - _i.e._, the other numbers in its feature vector are closer to zero, compared to the (normally distributed) random numbers found at present.
 
